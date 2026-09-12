@@ -10,6 +10,8 @@ The separation keeps the product repository suitable for ordinary installation w
 - Pre-separation candidate: `146ba9d2699ca9e1570762dea01e9b84da9374a8`
 - Frozen 4.5 candidate represented by that history: `d229ce4b7dd3bd704a331f81ca59600541430682`
 - Archive date: `2026-09-12`
+- Source-remediation commit before rewriting: `c50fcfae87404c0e83609c63964ae2922bd94c66`
+- Source-remediation commit after rewriting: `0cd4d5fb02b3d5391e4a2ff677f7e0c895f91708`
 
 The `source-separation-20260912` release contains:
 
@@ -18,6 +20,10 @@ The `source-separation-20260912` release contains:
 - `candidate-146ba9d-evidence.json` — per-file original path, byte size, Git blob ID, SHA-256, and selection reason;
 - `candidate-146ba9d-files.tsv` — the same file index in tabular form;
 - `SHA256SUMS` — archive checksums.
+- `agent-control-remediation-pre-rewrite.bundle` — the small source-remediation commit layered on the complete pre-separation archive;
+- `history-rewrite-commit-map-20260912.tsv` — complete old-to-new commit mapping;
+- `history-rewrite-ref-map-20260912.tsv` — old-to-new public branch and tag targets;
+- `filtered-history-full-check.log` — the 1,325-test validation of a fresh checkout of the rewritten source history.
 
 The committed `manifests/` directory is deliberately lightweight. Release assets hold the large files; they are not committed to this archive repository's Git history.
 
@@ -36,7 +42,7 @@ To inspect the candidate evidence without changing the archive:
 tar --zstd -tf agent-control-candidate-146ba9d-heavy-evidence.tar.zst
 ```
 
-The source-repository rewrite changes commit IDs. The complete old/new mapping is published here after the source refs are rewritten. Historical evidence is never reclassified as a result from a newer candidate.
+The source-repository rewrite changes commit IDs. The complete mappings and the detailed procedure are published here before the rewritten source refs are installed. Historical evidence is never reclassified as a result from a newer candidate. See [`HISTORY-REWRITE.md`](HISTORY-REWRITE.md).
 
 ## Security boundary
 
