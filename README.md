@@ -27,6 +27,20 @@ The `source-separation-20260912` release contains:
 
 The committed `manifests/` directory is deliberately lightweight. Release assets hold the large files; they are not committed to this archive repository's Git history.
 
+## Virgin Android installation result
+
+The same evidence release also preserves the final normal-clone installation qualification performed after source separation:
+
+- implementation candidate `413f8d3e572e0e777076a79177262493c603d592`;
+- normal, non-shallow, non-partial clone reported 5.93 MiB received;
+- exact Git pack 6,215,934 bytes plus 194,888-byte index;
+- 20,215,937-byte checkout before dependencies;
+- bootstrap check, fresh install and idempotent reinstall passed;
+- controller validation passed 1,328/1,328;
+- Android/Termux validation passed 1,327, failed 0, skipped 1 Linux-only PTY test out of 1,328.
+
+The release assets named `agent-control-attempt-8-*`, `final-controller-check.log` and `agent-control-4.5-virgin-moto-install-20260912.json` are the immutable supporting record. The source repository contains only the small machine-readable manifest and human-readable summary.
+
 ## Verification
 
 Download the release assets, then verify them with:

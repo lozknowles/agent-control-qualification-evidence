@@ -20,6 +20,12 @@ The five `*.png` assets are the original 4.5 README screenshots published indivi
 
 The complete bundle plus the small remediation bundle reconstruct the final pre-rewrite branch state. The latter declares `146ba9d2699ca9e1570762dea01e9b84da9374a8` as its prerequisite.
 
+## Post-rewrite normal-clone acceptance
+
+Candidate `413f8d3e572e0e777076a79177262493c603d592` passed a genuinely clean Android 15 / Termux installation using the documented normal full-clone path. Git reported 5.93 MiB received, compared with approximately 263.26 MiB before remediation. Bootstrap check, installation and idempotent reinstall passed. The final controller suite passed 1,328/1,328 and the Android suite passed 1,327 with zero failures and one platform-inapplicable Linux-PTY skip out of 1,328.
+
+The associated manifest and raw command/test logs are attached to this evidence release. This acceptance qualifies source distribution and installation only; it does not create or authorize `v4.5.0`.
+
 ## Audit boundary
 
 This release preserves evidence; it is not an Agent Control product release and does not alter the recorded qualification verdicts. The paused `v4.5.0` release is not created by this operation.
