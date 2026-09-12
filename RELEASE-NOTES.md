@@ -12,6 +12,8 @@ This archive precedes the source-repository history rewrite that removes histori
 
 The candidate evidence archive contains 417 files totalling 206,327,212 uncompressed bytes. The full Git bundle preserves the original public history and refs before rewriting.
 
+The five `*.png` assets are the original 4.5 README screenshots published individually so the source README can continue to display the qualified dashboard without embedding those binaries in every clone. Their original paths and hashes remain in the candidate manifest.
+
 ## Audit boundary
 
 This release preserves evidence; it is not an Agent Control product release and does not alter the recorded qualification verdicts. The paused `v4.5.0` release is not created by this operation.
