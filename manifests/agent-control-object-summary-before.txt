@@ -1,0 +1,12 @@
+all_blobs.count=4448
+all_blobs.bytes=399581425
+blobs_ge_100k.count=263
+blobs_ge_100k.bytes=323514407
+blobs_ge_1m.count=39
+blobs_ge_1m.bytes=228447745
+evidence_path_blobs.count=891
+evidence_path_blobs.bytes=320030691
+media_archive_blobs.count=217
+media_archive_blobs.bytes=273401453
+heavy_evidence_union.count=934
+heavy_evidence_union.bytes=322819534

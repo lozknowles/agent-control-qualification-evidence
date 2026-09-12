@@ -1,0 +1,3914 @@
+{
+  "schema": "agent-control.external-evidence-manifest/v1",
+  "createdAt": "2026-09-12T21:08:41.718Z",
+  "sourceRepository": "lozknowles/agent-control",
+  "sourceCommit": "146ba9d2699ca9e1570762dea01e9b84da9374a8",
+  "selection": {
+    "qualificationPaths": true,
+    "mediaAndArchiveExtensions": true,
+    "maximumSourceBlobBytes": 255999
+  },
+  "fileCount": 417,
+  "totalBytes": 206327212,
+  "files": [
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-001-adaptive_thin_standard_deep-attempt-1.patch.gz",
+      "size": 197,
+      "gitBlob": "824f5f78db33ca76ef882fb30307039ca0ed83e2",
+      "sha256": "5702c2a4293dc8ff319a09395c7802fe65b5521f99720154936499a453eac2cc",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-001-adaptive_thin_standard_deep-attempt-2.patch.gz",
+      "size": 267,
+      "gitBlob": "2f2da5653af55efbb7edf5b42f53f7a15df7ff9c",
+      "sha256": "8ebf336dbace1272449d95a01ad1fafe46aa1e110bb07748824031da6c72ffd6",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-001-deep_only-attempt-1.patch.gz",
+      "size": 197,
+      "gitBlob": "824f5f78db33ca76ef882fb30307039ca0ed83e2",
+      "sha256": "5702c2a4293dc8ff319a09395c7802fe65b5521f99720154936499a453eac2cc",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-001-standard_only-attempt-1.patch.gz",
+      "size": 197,
+      "gitBlob": "824f5f78db33ca76ef882fb30307039ca0ed83e2",
+      "sha256": "5702c2a4293dc8ff319a09395c7802fe65b5521f99720154936499a453eac2cc",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-001-thin_only-attempt-1.patch.gz",
+      "size": 197,
+      "gitBlob": "824f5f78db33ca76ef882fb30307039ca0ed83e2",
+      "sha256": "5702c2a4293dc8ff319a09395c7802fe65b5521f99720154936499a453eac2cc",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-002-adaptive_thin_standard_deep-attempt-1.patch.gz",
+      "size": 311,
+      "gitBlob": "2a3a89c56931180561a2f33d2698612105dcd1c5",
+      "sha256": "3a0a93116035599582f7cfeeaad7ba8ee20fff2f6adfdf0e4cc4927fb0f9c0ad",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-002-adaptive_thin_standard_deep-attempt-3.patch.gz",
+      "size": 329,
+      "gitBlob": "bd8fbbe28f95cccef257b67720481fca2384bae9",
+      "sha256": "8ae932ac9a23018800aaa5e6cd0fa9c185ef8ec9d536e56aa17f135c883753d4",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-002-deep_only-attempt-1.patch.gz",
+      "size": 311,
+      "gitBlob": "60d4417510bc3e73104df6dcd46f7e9fe03cec23",
+      "sha256": "147767ff05edbb80fbb1d3d920bf4b22aa187462af2295f40683a8dc5dfc9ea7",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-002-thin_only-attempt-1.patch.gz",
+      "size": 311,
+      "gitBlob": "2a3a89c56931180561a2f33d2698612105dcd1c5",
+      "sha256": "3a0a93116035599582f7cfeeaad7ba8ee20fff2f6adfdf0e4cc4927fb0f9c0ad",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-003-adaptive_thin_standard_deep-attempt-1.patch.gz",
+      "size": 296,
+      "gitBlob": "e0fa668183914a9ed3db62c16a841d5a4cf7ece8",
+      "sha256": "4299be7d3997a3669ecf74bc6ef95d63a35b8303bf691b7ae5eedd579e3220dd",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-003-adaptive_thin_standard_deep-attempt-2.patch.gz",
+      "size": 527,
+      "gitBlob": "54884a677a18e672d904bf012517bc9f4f9bd493",
+      "sha256": "0a3b3c006d9f31cf4e4a5cb76c5ea197ee48c1529aa9caade15487f5652042fb",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-003-adaptive_thin_standard_deep-attempt-3.patch.gz",
+      "size": 658,
+      "gitBlob": "a87dc8286a33b378cac61dd9ca75b98a8d89b0ba",
+      "sha256": "d2d5d6f15092be035b7b9e13249e7847d43ede97f0a9c8fcc35a99ed0545a5fd",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-003-deep_only-attempt-1.patch.gz",
+      "size": 530,
+      "gitBlob": "69fca5026838aa2e643755ca46142ceedc938fbe",
+      "sha256": "54c383d84df03677e2481b35810646c3ecb9b454e7b00aa81a502568f2f7c936",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-003-standard_only-attempt-1.patch.gz",
+      "size": 554,
+      "gitBlob": "c4528c0de36df86c2f2ab3193aa679173e69dc3c",
+      "sha256": "f9a9fefd13073f036fe4972675a9aae4479e20012efedefff93741442f5f8a8a",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-003-thin_only-attempt-1.patch.gz",
+      "size": 296,
+      "gitBlob": "e0fa668183914a9ed3db62c16a841d5a4cf7ece8",
+      "sha256": "4299be7d3997a3669ecf74bc6ef95d63a35b8303bf691b7ae5eedd579e3220dd",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-004-standard_only-attempt-1.patch.gz",
+      "size": 624,
+      "gitBlob": "ad190a7971a5fc76be7a00883d3d931b72913ca7",
+      "sha256": "0874b206df1cffa71a0e7c6386fa7693e0daf693c40e17ca1eb04d2f5370fb85",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-005-adaptive_thin_standard_deep-attempt-1.patch.gz",
+      "size": 372,
+      "gitBlob": "0c6034734a9f7addf196c9df02123b9ca8d57439",
+      "sha256": "030408b67fe94a5514f13555840793c362dd0bb55e8cfce131a698a21ee1a636",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-005-adaptive_thin_standard_deep-attempt-2.patch.gz",
+      "size": 261,
+      "gitBlob": "8d1fa5a1af2606205a57d01e36530057d70d02c4",
+      "sha256": "4675a4e46b212f0284d389710076db999606c0a5a95a3c05d5494fb1e284577c",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-005-adaptive_thin_standard_deep-attempt-3.patch.gz",
+      "size": 261,
+      "gitBlob": "8d1fa5a1af2606205a57d01e36530057d70d02c4",
+      "sha256": "4675a4e46b212f0284d389710076db999606c0a5a95a3c05d5494fb1e284577c",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-005-deep_only-attempt-1.patch.gz",
+      "size": 196,
+      "gitBlob": "bc800de35107c5db9ebd3b1109695f11d29fd967",
+      "sha256": "0766a6bcca604512025bc3827e91d52449bc59117ff88e37719121b30473448d",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-005-standard_only-attempt-1.patch.gz",
+      "size": 263,
+      "gitBlob": "6a7c7dd6f7ca302341f7d88410e78faa51143b7f",
+      "sha256": "2cdd2c4f4f743e5855e12e7fadfacd39689fc1c758c06c43476090e22827dfdb",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-005-thin_only-attempt-1.patch.gz",
+      "size": 372,
+      "gitBlob": "0c6034734a9f7addf196c9df02123b9ca8d57439",
+      "sha256": "030408b67fe94a5514f13555840793c362dd0bb55e8cfce131a698a21ee1a636",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-006-adaptive_thin_standard_deep-attempt-1.patch.gz",
+      "size": 323,
+      "gitBlob": "8d9631a7e7052951c2d1fd51ab7e2a46fa1df45c",
+      "sha256": "d2e307fc7ea246002cb0335e238ad8d7f135f0d74b14ce025ab7629bb705b3b1",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-006-adaptive_thin_standard_deep-attempt-2.patch.gz",
+      "size": 503,
+      "gitBlob": "6b295dfa57ce92dfb030cd5adeed983ce7ec4030",
+      "sha256": "3f41564ec9722c52eb83e51ff85e6ec2f252288a51b75456373450f10ed074e0",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-006-adaptive_thin_standard_deep-attempt-3.patch.gz",
+      "size": 524,
+      "gitBlob": "6c6156c311ed9e56894ab8753d8f1afde39666b5",
+      "sha256": "0237e117dfa9ce301772bce63054ddd9061f77a303f1051591c28ceacf42d143",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-006-thin_only-attempt-1.patch.gz",
+      "size": 392,
+      "gitBlob": "612d7ac463071463136b9e7f49730bb9e5e156cd",
+      "sha256": "fedd81ccdd8dd4653f4cb76b9e94361ed04cf9b3453576986593dd3b5582fb26",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-007-adaptive_thin_standard_deep-attempt-3.patch.gz",
+      "size": 299,
+      "gitBlob": "41b6121a8e8e118d7546933ccfb5ab6db56664bb",
+      "sha256": "848caff6a4c574217e2037f07f5f11efeac532bcc1aba0b203903144db5ff295",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-007-deep_only-attempt-1.patch.gz",
+      "size": 373,
+      "gitBlob": "a7be2eba94a71344661e745c147ff8f106dce1d9",
+      "sha256": "24ba7f6c141834992a7e3267c287e58e965576111596488ea077a5e691255b3e",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-008-adaptive_thin_standard_deep-attempt-1.patch.gz",
+      "size": 296,
+      "gitBlob": "086537a0330da628371752553b5d743b841114f4",
+      "sha256": "f7d018de3f143748701eef155edbe1b90aee7b87a138b3ab8f5f48c022aed80e",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-008-adaptive_thin_standard_deep-attempt-2.patch.gz",
+      "size": 491,
+      "gitBlob": "4d2eabc2299b6d5f7d15cf39a869f84a62f13528",
+      "sha256": "779e990c72158a73865d0bd9ad3c8b6ebc24ed1ef47a81bbaa7e0276cdee4ac4",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-008-adaptive_thin_standard_deep-attempt-3.patch.gz",
+      "size": 491,
+      "gitBlob": "4d2eabc2299b6d5f7d15cf39a869f84a62f13528",
+      "sha256": "779e990c72158a73865d0bd9ad3c8b6ebc24ed1ef47a81bbaa7e0276cdee4ac4",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-008-deep_only-attempt-1.patch.gz",
+      "size": 615,
+      "gitBlob": "afc86a5d28153a00eb2105022af8a725b82d1f78",
+      "sha256": "6a6a5242b5d1ce2af6bc3c86ff1b47ed150483e3a0f03af112d80fb067673e61",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-008-standard_only-attempt-1.patch.gz",
+      "size": 313,
+      "gitBlob": "03b1d8e9aa3ddd09bc698f6cb9132e7d6e614a64",
+      "sha256": "288f885739a4623db977d61074b9e49a92ffb4444480b21da0b4e8c75f299e8c",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-008-thin_only-attempt-1.patch.gz",
+      "size": 296,
+      "gitBlob": "086537a0330da628371752553b5d743b841114f4",
+      "sha256": "f7d018de3f143748701eef155edbe1b90aee7b87a138b3ab8f5f48c022aed80e",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-009-adaptive_thin_standard_deep-attempt-2.patch.gz",
+      "size": 244,
+      "gitBlob": "bcc0e66709cc9f46fe61d059c144bccd87701e5f",
+      "sha256": "dc9b4d7a9e18d7f6752e091bac3da1f40d2445fd6c0fb3139653356f83abca75",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-009-adaptive_thin_standard_deep-attempt-3.patch.gz",
+      "size": 331,
+      "gitBlob": "34598dbb6a87cb9a9d01363684c7f68902d3b73b",
+      "sha256": "98211f0a106e379a46ab827d3656a35aa4712b2daa60f8dc46f5a51dac410a6e",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-009-deep_only-attempt-1.patch.gz",
+      "size": 278,
+      "gitBlob": "4e9444ebcbb3856457f1417fa430149d05a8b61e",
+      "sha256": "812e22ea96252152893d856b889a17646785c026df8acd7ad7e32f7df2751dfe",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-009-standard_only-attempt-1.patch.gz",
+      "size": 347,
+      "gitBlob": "44bd30db55f9534d636ccec6bdefacd267f65e2e",
+      "sha256": "397a76490a729f7e17738ec6e1a1402e9bf1f6edcb464856aed5145b08dcf791",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-010-adaptive_thin_standard_deep-attempt-1.patch.gz",
+      "size": 261,
+      "gitBlob": "b8b0a621755bc89267c72dbd41865090dc4a87f5",
+      "sha256": "409575ff9cd75a236c6378843fb75ba2bac0e64ca0ba7752207e38bef24d5670",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-010-adaptive_thin_standard_deep-attempt-2.patch.gz",
+      "size": 456,
+      "gitBlob": "cc1f3459541621d497548d69864190adfb5c591a",
+      "sha256": "2670659f9a13c11e7b53d6a862504d4bf383d96d1195eefbadb8b60d0f270c6d",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-010-adaptive_thin_standard_deep-attempt-3.patch.gz",
+      "size": 457,
+      "gitBlob": "47be653a9169638f1ae259c53871c7aeeb104743",
+      "sha256": "e3b277ffa3555c58187f2920cb2583b94335db87a5260af593424fb0c6ac66c3",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-010-deep_only-attempt-1.patch.gz",
+      "size": 261,
+      "gitBlob": "b8b0a621755bc89267c72dbd41865090dc4a87f5",
+      "sha256": "409575ff9cd75a236c6378843fb75ba2bac0e64ca0ba7752207e38bef24d5670",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-010-standard_only-attempt-1.patch.gz",
+      "size": 364,
+      "gitBlob": "8b8a50caa58b0e54d85c3aa3d582359703d0b463",
+      "sha256": "334b55f285d7d11cb98b33c2ee55c6e2e269f47acb9888cbb46f5787e1ab846f",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-010-thin_only-attempt-1.patch.gz",
+      "size": 498,
+      "gitBlob": "3437465fc0f51d1e4c7ff05f58d15cc214364565",
+      "sha256": "3edc27c9e7f21e6b9c98e6cff3fba3ae7dbadfeb48465534466f5aac32e9bbeb",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-011-adaptive_thin_standard_deep-attempt-1.patch.gz",
+      "size": 310,
+      "gitBlob": "cd903f8eaada218ef53cf53cd9ad99216b9103c4",
+      "sha256": "adb0629ceffa7c1aeddf8b11779756a3d9904cb5cc951d56060e105dd0d7de4d",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-011-adaptive_thin_standard_deep-attempt-2.patch.gz",
+      "size": 317,
+      "gitBlob": "d3a3b74aa9f29f587f9788d858b62ee2d90754d3",
+      "sha256": "f3ea5e44eba172bfd7d9444415f79aafda50679bd36986ae9bf8f548c3dd5cd0",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-011-adaptive_thin_standard_deep-attempt-3.patch.gz",
+      "size": 310,
+      "gitBlob": "cd903f8eaada218ef53cf53cd9ad99216b9103c4",
+      "sha256": "adb0629ceffa7c1aeddf8b11779756a3d9904cb5cc951d56060e105dd0d7de4d",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-011-deep_only-attempt-1.patch.gz",
+      "size": 310,
+      "gitBlob": "cd903f8eaada218ef53cf53cd9ad99216b9103c4",
+      "sha256": "adb0629ceffa7c1aeddf8b11779756a3d9904cb5cc951d56060e105dd0d7de4d",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-011-standard_only-attempt-1.patch.gz",
+      "size": 310,
+      "gitBlob": "cd903f8eaada218ef53cf53cd9ad99216b9103c4",
+      "sha256": "adb0629ceffa7c1aeddf8b11779756a3d9904cb5cc951d56060e105dd0d7de4d",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-011-thin_only-attempt-1.patch.gz",
+      "size": 310,
+      "gitBlob": "cd903f8eaada218ef53cf53cd9ad99216b9103c4",
+      "sha256": "adb0629ceffa7c1aeddf8b11779756a3d9904cb5cc951d56060e105dd0d7de4d",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-012-adaptive_thin_standard_deep-attempt-3.patch.gz",
+      "size": 358,
+      "gitBlob": "628699c1f50c7312e2d3042d099b52626701a2ef",
+      "sha256": "3e3834861665996ec8fd887ea062f232693a28981739d0683deb98294a79c50b",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-evidence/mut-012-standard_only-attempt-1.patch.gz",
+      "size": 715,
+      "gitBlob": "9a378f6f834016a860889433d7f1bff97bea2a0c",
+      "sha256": "bad30a36929176bb9618fecdb4347c7f8132b99fb200787693976582888356ce",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "artifacts/harness-mutation-report.json",
+      "size": 948041,
+      "gitBlob": "4b97b930522efc895d0965f5e1def145de941e74",
+      "sha256": "93136bb763816f925a7c301c4d810ba51c8bb22d73f970afc31e42f28d3f433a",
+      "reasons": [
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "assets/releases/3.0.1/Agent-Control-3.0.1-Operator-Guide.pdf",
+      "size": 16662,
+      "gitBlob": "4dddf53d30861d2b114b86ffeec32c0596813fb9",
+      "sha256": "6e3ce057692b0c62fa5fcefd859e644fa18553c5a371309f35e3b39082d1ece8",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "assets/releases/3.1.0/Agent-Control-3.1.0-Operator-Guide.pdf",
+      "size": 22513,
+      "gitBlob": "39e06af514a34e79d56172ed4b8bf621b2c5ea6f",
+      "sha256": "2aa71d288cb52ee63f9760e98bd6b27d66b1ca238284f1389a74944f5c038411",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-3.9-crew-wopr-escalation-video.json",
+      "size": 303746,
+      "gitBlob": "66e2eb85d69a67ec9d7648d174cf5bb10666d0d2",
+      "sha256": "a9e7a8f3bfddb36c97892405862dc391c0207759eff8008099405bd00d10d005",
+      "reasons": [
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-3.9-crew-wopr-escalation.json",
+      "size": 4201339,
+      "gitBlob": "954417cd9838f298355b93dcbfd74c6203a26ab8",
+      "sha256": "5c395122c13a857a257115fecb646b9a983c0c082774b6772db96669e65299be",
+      "reasons": [
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-3.9-crew-wopr-escalation.mp4",
+      "size": 7433973,
+      "gitBlob": "5d66ae2a8365cd8aec82d80a29ecc0cf52ebb075",
+      "sha256": "cc8b1b19d36ce7d060306b3134b8f8076d3319ec2a4e1ef93dc62085dabaea46",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-3.9-crew-wopr-escalation/01-crew-idle-and-event-matrix.png",
+      "size": 750054,
+      "gitBlob": "b4cce8175108fc1214d42b01e9e37e70862e7d8f",
+      "sha256": "0ac827dcec9354f7a3dbe5870d263dbba373a82c07a70189c851f08b4e398b5a",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-3.9-crew-wopr-escalation/02-exact-work-parcel-request.png",
+      "size": 756528,
+      "gitBlob": "e3e77b4933b9cd8687f060b60a44b14f631a3e45",
+      "sha256": "deb249841d95f7cc59f62987e3f6027954e83e71190a3ab5cd1854a4006c106d",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-3.9-crew-wopr-escalation/03-real-concurrent-lanes.png",
+      "size": 786567,
+      "gitBlob": "c91ed1bb04d8e6d9d58fb16f786041166a0aad45",
+      "sha256": "a5ff085e7fd786e920ab4a7279433dcf2289a026a411c9e3de39c4d084600262",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-3.9-crew-wopr-escalation/04-wopr-tool-indicator-evidence.png",
+      "size": 652123,
+      "gitBlob": "fb36f3e28e962a5e299635bb73bb4ae26616c38c",
+      "sha256": "6cdf5efa08c690360c442f1bd7d8182153982e0a6823c50e860b8ad6e460ac51",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-3.9-crew-wopr-escalation/05-source-model-live-usage-across-models-view.png",
+      "size": 456211,
+      "gitBlob": "c6178f82fac15580b59addc3e7f60aa67cb24cc9",
+      "sha256": "814124841e4666b83e6534dcc8df4341e30442d90f3a7fa5c7fb1a239e121966",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-3.9-crew-wopr-escalation/06-quality-gate-baton-reason.png",
+      "size": 535593,
+      "gitBlob": "3dafb49f62232891887e1567da226249c4571091",
+      "sha256": "c4ee638311242c5a48dce8ef1052f58a0d852f3deefa7fc6964806b994e72379",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-3.9-crew-wopr-escalation/07-wopr-handoff-indicator.png",
+      "size": 545780,
+      "gitBlob": "a31092cfddac3e6862d0e0eff1c900b4a41f13f2",
+      "sha256": "dc942de60fcb00bc4fd11813af6aa85caa4dcc059843739f8d7593d36ef38b7e",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-3.9-crew-wopr-escalation/08-destination-live-usage-across-lanes-view.png",
+      "size": 554968,
+      "gitBlob": "86cc9ad36c827456a54f485646afbef598b6f3e3",
+      "sha256": "457270c0d3477bde711e32e968523666d7e31bed8f4edce7c221b6e4e185d933",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-3.9-crew-wopr-escalation/09-independent-verification-active.png",
+      "size": 542963,
+      "gitBlob": "c639047cb2b06423bdb317a8ade6fed679ddae27",
+      "sha256": "045e37e614dfb66a5c0f2cbb928cefef86a9ed729ca8045ee483c6c3aa77eeab",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-3.9-crew-wopr-escalation/10-completed-reconciled-model-chain.png",
+      "size": 466396,
+      "gitBlob": "ad002dab933b9a3995abe633fbb850a14e0f93b5",
+      "sha256": "6a53fa0416a219ad9494a77b4ddfd7c2df3c09b71acbdcd427d39ac1abd02299",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-3.9-crew-wopr-escalation/11-job-history-and-transcript-association.png",
+      "size": 740429,
+      "gitBlob": "bb143d935519452be123832eac076cc2b4676f39",
+      "sha256": "f24f6e69648f8182b3da4d8626827e4e079e0d8490584b819a78a26f0576622f",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-3.9-crew-wopr-escalation/12-reduced-motion.png",
+      "size": 1526485,
+      "gitBlob": "b1665072da01827f045e329b8142c1947c19ef59",
+      "sha256": "e9b45e15104c09d56cb8047be4ceb000d2b3911874161d75e2d1e86429256c2b",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-3.9-crew-wopr-escalation/13-mobile-responsive.png",
+      "size": 1020663,
+      "gitBlob": "7689ec9b0c5821168c2e39d1edd3a05cfd93653d",
+      "sha256": "b6ea508786089fe2b1c851e8adabd7b63b2e53a9419f7b6acc252ba38d973906",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-3.9-provider-neutral-dashboard-before-repeat-fix.mp4",
+      "size": 9395717,
+      "gitBlob": "129594996623766771ba6c38c3c85cc3b9e0233f",
+      "sha256": "867982be0e99a112c6f5a8343629d6e04e05efd7d2fb9cc653e8f1390cfc5d3a",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-3.9-provider-neutral-dashboard.mp4",
+      "size": 10354528,
+      "gitBlob": "34bafc4385f6a40ab4aa3559c32948ab084a9a76",
+      "sha256": "8828d3fe28e741f0694998629270d96498cd329177fe4f0824216f4d0fcdaaaa",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-4.0-pixel-social-continuation-video.json",
+      "size": 320869,
+      "gitBlob": "8b2cfe711ed5742f280a2f20b410b4f5fb7a854e",
+      "sha256": "2196c4e11c8e447698a0ec411d9f12c99f54cfcbd189477c6dbe5f922e6a09bd",
+      "reasons": [
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-4.0-pixel-social-continuation.json",
+      "size": 4947666,
+      "gitBlob": "5175d3ca527ce73cf51d2f85b0d91b278603ddd4",
+      "sha256": "85333167e1dcbdd95f037f0cfc82903d0225e6a818609822b1d86978ded414c9",
+      "reasons": [
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-4.0-pixel-social-continuation.mp4",
+      "size": 12035939,
+      "gitBlob": "f60c3fc2495039db14448cb4673af488b8f7a52d",
+      "sha256": "b057bb76edc908276dee609af37b6f867273e017a18e339d7fac183d16d6bb3e",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-4.0-pixel-social-continuation/01-crew-idle-and-event-matrix.png",
+      "size": 751787,
+      "gitBlob": "bd771ed25415461922d3926af783c753b9b6e71c",
+      "sha256": "714a4d5f0f3c50fa8f68bde11356eef320368678c8481fd5d5dfd5f1b51f419b",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-4.0-pixel-social-continuation/02-authenticated-social-work-parcel-request.png",
+      "size": 426002,
+      "gitBlob": "08e0020d4ce3df97f8be8777e15e18eca525ec01",
+      "sha256": "38c55c865e2e8dbeea1e090295b2b5d8400eba4188f120167463576ffddda39a",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-4.0-pixel-social-continuation/03-real-concurrent-lanes.png",
+      "size": 776567,
+      "gitBlob": "b5faaf03c4fcf8c9b8708d1a2f7ba1da9bba0f80",
+      "sha256": "eefd58208c8b1846a353dd45433b6bc969cd27c4be04838a2fd030430d23d9e0",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-4.0-pixel-social-continuation/04-wopr-tool-indicator-evidence.png",
+      "size": 659764,
+      "gitBlob": "18d9b16e9eca6da84bc895f759b58f436867f807",
+      "sha256": "e7030f0810cb9f9eabefba5d9b0b861192ec0b4096c79d32a6ae1a86e423637c",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-4.0-pixel-social-continuation/05-live-shell-watch-real-pty.png",
+      "size": 205216,
+      "gitBlob": "b28446c15377a55f8eb75a825a756a8b588a031d",
+      "sha256": "292248dadadf291e3f47117b8ceac9e7e47eb76eb3819a98bf6120565c6f375f",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-4.0-pixel-social-continuation/06-live-shell-governed-harmless-intervention.png",
+      "size": 238398,
+      "gitBlob": "6241d7f9c64ee09cb27ebc17a84900dcb2868cdf",
+      "sha256": "a24f8e43780aaaa7ad62e3ad3c23a6740e0b3294a758c8d58b7b62a4f3479581",
+      "reasons": [
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-4.0-pixel-social-continuation/07-configured-systems-and-node-state.png",
+      "size": 522918,
+      "gitBlob": "b06aa7639dcf1671f56ad63255452530601eb24e",
+      "sha256": "558d5b7af30bb11c11901174f7da1562e58729b18517d22a74fab603b308948e",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-4.0-pixel-social-continuation/07b-adaptive-model-workflow-decision-tree.png",
+      "size": 496861,
+      "gitBlob": "083e5acbca78f8b5586d7d380d498ed0aa705687",
+      "sha256": "873bdaf811f684f1cfbcc20662202966c6e293a585ba010e3c0038a66a905dbf",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-4.0-pixel-social-continuation/08-source-model-live-usage-across-models-view.png",
+      "size": 460546,
+      "gitBlob": "88c34559bb782236f4ef109a673b0ba709ae2448",
+      "sha256": "8775c56b634664adc95de9db58cc477bd54ef01e008107ae6574a4130735e384",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-4.0-pixel-social-continuation/09-quality-gate-baton-reason.png",
+      "size": 534274,
+      "gitBlob": "efdb924b68d7d607e82a51a1df5a8e491b9810dc",
+      "sha256": "0bf3b810991fd0b70ffe25aae9ac8e196dc69ad59699b629b8b1ac8826d3c260",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-4.0-pixel-social-continuation/10-wopr-handoff-indicator.png",
+      "size": 561687,
+      "gitBlob": "8a49fbb0a6d57763e7a10a9af22a543ef5e3bfa9",
+      "sha256": "7a41156aae2bdac16d1ee25bb5901916797f4b18b00c07ea15db24f350f5c4b9",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-4.0-pixel-social-continuation/11-destination-live-usage-across-lanes-view.png",
+      "size": 575647,
+      "gitBlob": "797e5ed933b29081f39c5eddb55795d85426c96f",
+      "sha256": "f71c6d934d546e0cac0e41a82932fd1c69d971e0a9cb7dc022de2cbf6a2c1aae",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-4.0-pixel-social-continuation/12-independent-verification-active.png",
+      "size": 550577,
+      "gitBlob": "e74e28c0d1ccf0bdb3a8fffef13cd7ee86ca9de3",
+      "sha256": "291f69e1de6610188ffe621048fad9efbdb144d8d20b5ec7d1a9470d6678bffd",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-4.0-pixel-social-continuation/13-completed-reconciled-model-chain.png",
+      "size": 463725,
+      "gitBlob": "ece73b550f3ba6f50d1c7bcf57b09a556e2d22c3",
+      "sha256": "c75b22ef3b157a7d149321ccce92b48816c7ceebc678ff3bdd7117bf02c0c53f",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-4.0-pixel-social-continuation/14-product-transcript-origin-and-exact-request.png",
+      "size": 345015,
+      "gitBlob": "a73f6198271322336f9ef80ace30bd676d1f2b3f",
+      "sha256": "ee13f3904ae694d40f94db6ec51b46a00d264d69f24214e3bc78150cb7bc4a18",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-4.0-pixel-social-continuation/15-product-transcript-model-change-and-handoff.png",
+      "size": 358967,
+      "gitBlob": "87f43d3e177069235cfd610b2756f720fa78f170",
+      "sha256": "f39b81d81c5ce3ea8890efee0ea7e8c413d3cb060bc327c85f5a614fbce8c26b",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-4.0-pixel-social-continuation/16-reduced-motion.png",
+      "size": 970165,
+      "gitBlob": "3ce1c5b7577ec86c48557f59ad2b3a39a913a7ec",
+      "sha256": "3642791ba37921f782b888fea31e35bed19e5f109e594e4f0d1bb2256d70e2fa",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-4.0-pixel-social-continuation/17-mobile-responsive.png",
+      "size": 534830,
+      "gitBlob": "2a3a0f41c901ef9b826b72c5301d66fb25bbb57c",
+      "sha256": "aead74abb1cd1f2ee0962c1accf0110a3ddc67649c47d711fa093b74281fff6d",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-4.3-integrated-dashboard-20260909.png",
+      "size": 792399,
+      "gitBlob": "f043478ad5da4556c2712f0c68c4a747c46c24a7",
+      "sha256": "92307b32f6cff5625c0b688b9ab0df33b5252a9bdc07774681c2674dc3860902",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-4.3-integrated-qualification-20260909.json",
+      "size": 579131,
+      "gitBlob": "86c8f128bb8490714d10dd3d3e7dcbcba81cd250",
+      "sha256": "eff527f21b6a3a84ba18d44f6be74e24ae96841c3ee6891a63ec9cd923291d5d",
+      "reasons": [
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-4.3-integrated-qualification-20260909.mp4",
+      "size": 13589836,
+      "gitBlob": "7e3cb1c64e464163ebcacdbd9c78ba5282eaa0e8",
+      "sha256": "321db46fe76ecfb0e781d9037e802bdd52ca354c343e8c86288e9fd3cca8931c",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-4.4-marm-memory-qualification-20260911.json",
+      "size": 267403,
+      "gitBlob": "f96d7c1afddaf953a4cb8a53b3c06212139a71b5",
+      "sha256": "a7bdce9a6852484d4460a48defb16211f036019a3f67dfb3e6fc926dd99a2c6a",
+      "reasons": [
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-4.5-cross-model-memory-qualification-20260911.mp4",
+      "size": 4277393,
+      "gitBlob": "4db4eeb6b238fe82d50a01be43bbe0bcfb394748",
+      "sha256": "c313b9c1129283bee300e33f0ed26b4074275917601937bcbf01f43395bf5b4d",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-4.5-cross-model-memory-qualification-20260911.png",
+      "size": 929932,
+      "gitBlob": "fbb93fc00d025c9b0942febba5a0705137975502",
+      "sha256": "d49b7ea5c68e7a5bac2732097c8864bd5f895a099a2628c50ae1affed3d56b7c",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-crew-workflow-qualification.json",
+      "size": 1157216,
+      "gitBlob": "dd5c3fb9febcc798756c13e099feb8aac6b8aed2",
+      "sha256": "e3ee947aaf17f8f123acdc109d9123e796f5020a611c1954289215043f40e667",
+      "reasons": [
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-crew-workflow.mp4",
+      "size": 3715106,
+      "gitBlob": "c42ae752541a9ffe657ff116368138b02185483a",
+      "sha256": "607a38f92c9f3eb3d788d3b74d1780e8a1d71767bebba324b57fa093725fae66",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-crew-workflow/01-crew-initial.png",
+      "size": 760222,
+      "gitBlob": "6e80740d2734a3f2a0910ccfd2fc45e9b1963241",
+      "sha256": "02c052e8d5a970c7e11fa1321e86a9bddebe398811cb614ccbd12479b32ae698",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-crew-workflow/02-crew-concurrent-live.png",
+      "size": 826277,
+      "gitBlob": "10f3ea67af21d180dfd6ff920c38013653cbd29e",
+      "sha256": "d84ab6ce4f600c973a330b3ebe3bc43cd5f6f9290c2f1f814af8f4d28492306a",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-crew-workflow/03-real-parallel-workflow.png",
+      "size": 791805,
+      "gitBlob": "b5ca41b7a82c53af3a4b80c2cf751b1de55d9601",
+      "sha256": "76abe60fc075e34ff3d2496b16346e6ad45e9675e264d77922a4f8b938779ff0",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-crew-workflow/04-real-baton-reason.png",
+      "size": 811668,
+      "gitBlob": "2d9d174399c7fd395e5743d77650145744d112ca",
+      "sha256": "21f68d9c71d0b6220d1cd85f69be7a145616f274ecd32256aa688a9821daa1ce",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-crew-workflow/05-level-two-human-explanation.png",
+      "size": 803266,
+      "gitBlob": "1ab686abae5da87785a2e64ff7146eb73e7c98aa",
+      "sha256": "da9f40f10b455346f4e3d63a7cf9d4cfcca6572b41d0e70a9a1c7cc5b5ec7825",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-crew-workflow/06-resource-navigation.png",
+      "size": 534129,
+      "gitBlob": "28592c3aceb4ea688de427088a6ab7bccda9133a",
+      "sha256": "17040c2451e7dd4a0fb5d6f44af133e932198fb06135773ad034f761793d4111",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-crew-workflow/07-crew-completed.png",
+      "size": 748548,
+      "gitBlob": "9605d8d80f86b23a6d526c90d02f017e76e764fc",
+      "sha256": "a93ff8b1fcdb7e3426571a5dba2459fa158ef72344fd0b70b66becf5208a41ae",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-crew-workflow/08-crew-reduced-motion.png",
+      "size": 746523,
+      "gitBlob": "b4ab06ca992879947ce9778477c10ca82981d477",
+      "sha256": "438249ce0f443a63c23dbc2dde6ffad258363d5c5a6942a956875a135bd23f19",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-crew-workflow/09-crew-mobile-active-strip.png",
+      "size": 919408,
+      "gitBlob": "a453ca30dd9a841e151c9692cacf8a376ac4a811",
+      "sha256": "41719f66fee94fe8615ff959564824598b530b6f334db9730fdf93dca58e935a",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-dashboard-characters-qualification.json",
+      "size": 451384,
+      "gitBlob": "5e86d38a46855e69d85c631a207e10182bf9daaa",
+      "sha256": "d4408700d922885a2a8c334f07210ce117e3b4726e258785b777a034fd35135e",
+      "reasons": [
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-dashboard-characters.mp4",
+      "size": 4307801,
+      "gitBlob": "695ffa9a6ab83a08057d62ad787e0c148287f5e6",
+      "sha256": "4faba20d80e41e34d9ad6e1e699a95a93c4634a4ac6e6a6682c1e284ec0d8907",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-dashboard-characters/01-crew-initial.png",
+      "size": 862204,
+      "gitBlob": "1800a69801949131d72fb3713f9070c9546ac7f8",
+      "sha256": "edcc82e3212e0f54efb3f12bc2c1fa91fa19eb5ac4bf3e424198ba164db74233",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-dashboard-characters/02-crew-concurrent-live.png",
+      "size": 881708,
+      "gitBlob": "6056941245674261398aa9d9b9c3764396d48d97",
+      "sha256": "531b67294febc3e94e9cd3e61a6c0217b8a0f61edabff0ea8be550671cbd6dfb",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-dashboard-characters/03-resource-navigation.png",
+      "size": 498682,
+      "gitBlob": "c06088ff61476dd4f94bc009f0a6b71dfa5f27e7",
+      "sha256": "39231ee3d116c731f9529960b28e08b348d833a8674e6c3f8eac6e658e24df68",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-dashboard-characters/04-crew-completed.png",
+      "size": 856020,
+      "gitBlob": "15bf5a775cba72727fb71f8655ef0f18acc9a872",
+      "sha256": "56f95b2fe96287330aba48a59e3c0342200ad8780a1c71ccfbe22ea19839d726",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-dashboard-characters/05-crew-reduced-motion.png",
+      "size": 849782,
+      "gitBlob": "3654f4716eff88e3992b7612398591ae67b45d2b",
+      "sha256": "874fb31d2417471745a28bf24d23294fb9d65bd2196a91538d1b286c3f6f730e",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-dashboard-characters/06-simulated-gallery-light.png",
+      "size": 976218,
+      "gitBlob": "bb477c8f963e0e270d20928f8af09c4e03f45f01",
+      "sha256": "67e1d55d2d2aeadf55c07ebe37e6b12845f5b846c1edd5933432767c1f8701ea",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-dashboard-characters/07-simulated-gallery-stale-dark.png",
+      "size": 977462,
+      "gitBlob": "4e8aba92455189c8977ef6894a59fb48d94ef704",
+      "sha256": "3eb30a0c24a75bac094ce44ec352511508797b62dd72475428148f2a21334dd2",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-dashboard-characters/08-crew-mobile.png",
+      "size": 702031,
+      "gitBlob": "77158c823cd076e82ac45a001562826e83320c67",
+      "sha256": "a2f1a314146b4708d54e7f99a1fb6e5f5c54060d4ae62c465087fc34ed7da885",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-protected-resource-dashboard.mp4",
+      "size": 5495010,
+      "gitBlob": "29268cfa95d78289fadb2cdb2d7ea9e1a07e9c8e",
+      "sha256": "eeebb30951025527ff0e28573d017b4f32ea85e6b73893ee1f438c975ca4c185",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-protected-resource-screenshots/governed-run-detail.png",
+      "size": 2669623,
+      "gitBlob": "bdc0f47e0838cd4fe6fac9afe30c8354aa78b310",
+      "sha256": "2e131e29c42f578b2f3d7bf7e6829587f1ffb14b1865e1f09c2953d3c0968c80",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/agent-control-protected-resource-screenshots/runtime-safety.png",
+      "size": 1931815,
+      "gitBlob": "ec98d75a61567622085ffadda59776afb0ddc8a1",
+      "sha256": "470998875e3dd641238c56e7b3818608323a73f1c0cecc706e276fbfa5364e2f",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/evidence/morrow-host-identity/morrow-and-crew.png",
+      "size": 270701,
+      "gitBlob": "ee04ed812d66be0cd87edd001e1f03a83f850338",
+      "sha256": "45d221af7908a427bc683e2f11b22a048724fc93df90014718e53745d3598558",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/images/agent-control-4.5/dashboard-overview.png",
+      "size": 911634,
+      "gitBlob": "48ae5341d9eb48137dc7cede92eeca74c4f90b35",
+      "sha256": "105d1de00c3a73c1f57c123b98de8d14690627f5c57e6bc51e0e177dc9c5b659",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/images/agent-control-4.5/estate-map-real-discovery.png",
+      "size": 368405,
+      "gitBlob": "5e1d79db2b42cc8e589200ee548da480dba86c12",
+      "sha256": "a6deeed6c79919d614b2d67a0959fcfb085107444661575c09d530462312c9fb",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/images/agent-control-4.5/process-map-compare.png",
+      "size": 515697,
+      "gitBlob": "deee127459a1983c1aacaa7ebe3fb71780d43703",
+      "sha256": "a2b7070b645e04c81f1876a00fe6c2563f63ce14cb4782d9f28a9314f822f611",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/images/agent-control-4.5/process-map-control-room.png",
+      "size": 521904,
+      "gitBlob": "26c6d910b7a702ea61a712d68b95717584d371f8",
+      "sha256": "0112c5391f5320ac2daee604d2ad2d132cf9709d25a9be49e6b5cd7b48f1e693",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "docs/images/agent-control-4.5/process-map-six-jobs-running.png",
+      "size": 456442,
+      "gitBlob": "06b7081599db8d33becb036215a52730b57c7632",
+      "sha256": "7c1d3607d19808b697200b322fa3feb376789d49725a62999d21b48b7f321b6f",
+      "reasons": [
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.4-ux-session-replay-20260911/agent-control-4.4-ux-session-replay.mp4",
+      "size": 5163170,
+      "gitBlob": "6e66edd2e5f20f2c9a0ab829ba0d14fdee4e3506",
+      "sha256": "53ef0707f0549dac48531fc8dc14edbfeedf9812dae97fb59e9b1adf6af6003d",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.4-ux-session-replay-20260911/authorised-diagnostic-view.json",
+      "size": 19635,
+      "gitBlob": "1a73620711094c8da073e33c3251a551d7ae20d2",
+      "sha256": "7e434472a59ce52766bd19c5285f011ff7e640befc09fe0ea124989f7b8dd8c5",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.4-ux-session-replay-20260911/canonical-session.json",
+      "size": 37395,
+      "gitBlob": "779ef539c1580f61ebf5e185e2677e85fccfddf3",
+      "sha256": "b94bad952234a98b9601391d38ae36ff4704f9f788424d243eefcef1ff1651db",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.4-ux-session-replay-20260911/complete-transcript.md",
+      "size": 10603,
+      "gitBlob": "e054c2e343be168f93a6b5dd88ced1a34382bcb0",
+      "sha256": "78d3bed68065388f7dfdd7641194d2a54fd5cded1f498e326f7ec59102a0e98f",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.4-ux-session-replay-20260911/evidence-manifest.json",
+      "size": 3591,
+      "gitBlob": "8655c38ee3d2456b4593c49d15d8ea966270c7c6",
+      "sha256": "ad1a4811661560a8973d3de5d6ae4ba8719320e8d19569a53f2c6b664fc258ba",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.4-ux-session-replay-20260911/human-readable-digest.md",
+      "size": 847,
+      "gitBlob": "7aaaaf700087b7c003fa51d679cdf15be7c1526a",
+      "sha256": "8486ffd4c21ad97ddc59c7925e4c28b1abdeb09e9204636c2b635b5994fe3f60",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.4-ux-session-replay-20260911/interactive-replay.png",
+      "size": 948987,
+      "gitBlob": "34ffee64cfec9b659918b481f33a93430e7da778",
+      "sha256": "7f4296992d3b23d14148faddefa5ac84fc08ced8f15fdaa365c2bacc1667f04b",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.4-ux-session-replay-20260911/memory-session.json",
+      "size": 6168,
+      "gitBlob": "c766888a9283300a72acac7d49dd3bc3fb791c55",
+      "sha256": "7adb17b7a1dd34607300f1d093e9aeec8abd58f28bb9e668d5ad04c90a4c7fb5",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.4-ux-session-replay-20260911/sanitised-external-view.json",
+      "size": 17110,
+      "gitBlob": "1a3aa4bbd2304d3b34d9d94cf4881c5097ceca54",
+      "sha256": "9c92747da042b0f64f62b43fc6f3ce1b8af8fc1d8f24c0a3150f599363f9c253",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.4-ux-session-replay-20260911/your-memories-replay.png",
+      "size": 881422,
+      "gitBlob": "a3bb5001a2af92fba6dc9c9b904897e04352cac7",
+      "sha256": "2b8014d939ed4c8569934b6b11ebc9bb2eeee57ce025e418e5fd36f870225416",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-deterministic-skill-20260911-failed-teacher/energy.json",
+      "size": 55828,
+      "gitBlob": "2a4f9e18ca3299d426faf90e3f401aa7d491fc4f",
+      "sha256": "a1f92efa77377bd5ef5f7f9c5d12f9699c7c45a51999da049a15c7795c180a5d",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-deterministic-skill-20260911-failed-teacher/failure.json",
+      "size": 651,
+      "gitBlob": "02c955eb941d6c75f5895fcf90601f18a280b45f",
+      "sha256": "6d6821d739c1c8fbc350f79bd78d2ba97b4c48a3d4ae8a555e3a59d77c79c9d4",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-deterministic-skill-20260911-failed-teacher/skills.json",
+      "size": 51679,
+      "gitBlob": "6388bf6909406377de44f6f2441d7cd69e8f2079",
+      "sha256": "a157034c4210cf76a4552cb1aab58be42cff21c9d11fa69e33cd60cb0b0bff44",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-deterministic-skill-20260911/energy.json",
+      "size": 76810,
+      "gitBlob": "99de1683bd6eaae6e0ecbb4f14f3448c6bcae7f9",
+      "sha256": "4377c2283a37ff0be8a28dbf31a8c7aa07f5f746e5adcfa490f39819533f137b",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-deterministic-skill-20260911/poe-transcript.md",
+      "size": 3397,
+      "gitBlob": "45e81d55dab2c0b51eb7953d9e51f326de718c07",
+      "sha256": "ca670fad2a3e3f8fb16b5110a13e2b57d444567051b410e7f5c88acde1dffbf4",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-deterministic-skill-20260911/poe-work-parcel.json",
+      "size": 38135,
+      "gitBlob": "d087454ae1fe1b2e93753b382b887cfc439d0783",
+      "sha256": "df7b86d99e4d051e9091307cb5c31044574fc64d610dc3ac8534373a3f90b596",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-deterministic-skill-20260911/product-runtime/adaptive-orchestration/state.json",
+      "size": 12067,
+      "gitBlob": "0d72c49ad2dac5caf535f763347ccf44d0c31f99",
+      "sha256": "bcffdca378927245eb611afb5f4f1bd3df449a7efc24b4d64cde159c1d633817",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-deterministic-skill-20260911/product-runtime/deterministic-skills/state.json",
+      "size": 77524,
+      "gitBlob": "c411aa7f24997cf920315ca71c5ff445ffc4c5ee",
+      "sha256": "375cad164a37a8e5ad9faaf4f6b0b9f23776d55cfe2fd0ab0ecdc110075a7d6d",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-deterministic-skill-20260911/product-runtime/jobs/artifact-store/artifacts.json",
+      "size": 972,
+      "gitBlob": "999b9b75a92956fce572aadced56d3f1b6b99f91",
+      "sha256": "b0bbb5e4118eeb0080d1f578fb4fe846ad8441f83e2db0227857442da3c5851b",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-deterministic-skill-20260911/product-runtime/jobs/artifact-store/objects/artifact-3f4df7c4-af31-4f31-b672-00d621e88972.json",
+      "size": 1652,
+      "gitBlob": "6effd459845b99861cafa6d897f375c201bd1107",
+      "sha256": "a06bbaf6499db763ef17cb6adc18ad9e44070cdab7a5d9dc38a697fded4bce1a",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-deterministic-skill-20260911/product-runtime/jobs/resource-locks.json",
+      "size": 34,
+      "gitBlob": "b263a9e873a947846b140d1f5855746bbc865fa3",
+      "sha256": "dc8d39153c0e0e67aee3abea031749238848c3d77345d19559d1610b7f8347eb",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-deterministic-skill-20260911/product-runtime/jobs/run-events.jsonl",
+      "size": 930,
+      "gitBlob": "82626d85ff995e856ca4ac1aa6f731f0081af601",
+      "sha256": "daae9e6a2bfdb132a69d536dc2205ad4a4cadc40121feff6292255586ddf5af9",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-deterministic-skill-20260911/product-runtime/jobs/run-ledger.json",
+      "size": 10044,
+      "gitBlob": "303da0c594740d5df7e07a6c6806c30c8e66f2fa",
+      "sha256": "e2e48300ed8a321e518bcab70afd04233558ddcb0c00a13ac8c0fffdf4993baf",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-deterministic-skill-20260911/product-runtime/poe.json",
+      "size": 9414,
+      "gitBlob": "cf9b3fb727ddd8a9edff1e5d8fc0c115d6fb25cb",
+      "sha256": "936b9f5225f61334c02c7e7373c665b3dea68a91429c4ac7626fdf80e1ca2151",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-deterministic-skill-20260911/product-runtime/runtime-safety/decisions.json",
+      "size": 1180,
+      "gitBlob": "332fec97fe1d79de2933969383fdf4d0844f24f6",
+      "sha256": "4ecc02b8bd21ccc26e06b1d93803543d5d6fe125d6fb23c09f802b6cd66110f8",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-deterministic-skill-20260911/product-runtime/work-parcels/parcels.json",
+      "size": 33625,
+      "gitBlob": "78ef36dde689c50ce63d1494f8406538412d6d3f",
+      "sha256": "759ba762244301dc3cecf423ce66cb5744b56e4dfd612f65e62873de98ed9f04",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-deterministic-skill-20260911/qualification.json",
+      "size": 110982,
+      "gitBlob": "fafa9278073fe0257a47566041cf6c62f9ab022d",
+      "sha256": "b79a19cb2aea31266eb6ac171ffbdd86f9adcf1f78c7130161db20dea04f36e2",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-deterministic-skill-20260911/skills.json",
+      "size": 75869,
+      "gitBlob": "b0cee24ac4f92c2f0afeacd34b6d36a9ad80be3e",
+      "sha256": "47ed01f04e00e7d3d2c3208d2737928424f12ce34fbb63e5e5c7a3036b3630c2",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-deterministic-skill-20260911/transcript.md",
+      "size": 962,
+      "gitBlob": "a34f2eff8939c005ed6fc6c109c442e812f59611",
+      "sha256": "3939c7d5fccbebfdff3021d83a9aa72c4dca9b29fcdb8ae7893fb85b80e5ad02",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-deterministic-skill-20260911/ux-evidence/agent-control-4.5-deterministic-skill-promotion.mp4",
+      "size": 4361179,
+      "gitBlob": "c24df34e55daee3098001c42bab5cfa59a8bc90f",
+      "sha256": "5691a1c4d5b8402cfcb02d016fa494e01182b79fd3b302b8fbcdd07c58717b1a",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-deterministic-skill-20260911/ux-evidence/canonical-session.json",
+      "size": 11232,
+      "gitBlob": "fc5299341eb649cb476b4e1ef2d297e3695222d6",
+      "sha256": "4c1404179be8e8f23b071c5668bd52d036369ba48c34d2ff324cef4b2c327b63",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-deterministic-skill-20260911/ux-evidence/complete-human-readable-transcript.md",
+      "size": 7155,
+      "gitBlob": "7b9b7299053d40f4929f64cd927fe1ec96d2e4bc",
+      "sha256": "e22e784a68d4166654973c6ce182552df31cc3582bcf4d9ea99d46027509fd9b",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-deterministic-skill-20260911/ux-evidence/deterministic-skill-replay.png",
+      "size": 977011,
+      "gitBlob": "d1c5680f4100f6010886f44ecdd940ba345fcb4e",
+      "sha256": "01a34af4b44485a265708d9597295edbd0581ba9111583ceb8450ea225163675",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-deterministic-skill-20260911/ux-evidence/evidence-manifest.json",
+      "size": 1304,
+      "gitBlob": "91db3dda94cda7aeede33bf02a0267e5c85430eb",
+      "sha256": "e56c4879dac41aae107496660ace2f848279f4edea942073b2a0a72c8f60a8e1",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-deterministic-skill-20260911/your-memories/skill-baton-integrity.md",
+      "size": 885,
+      "gitBlob": "a1ffe2ecee71428c85425a7b7243cf82281efe8c",
+      "sha256": "a72a8ef80497968cc65c562d4ca26d724b0ed3a6e64602871c05411d50c2bfba",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-deterministic-skill-20260911/your-memories/skill-repository-state.md",
+      "size": 894,
+      "gitBlob": "bb16d70799ce6633f9af8d9641e60a954192d958",
+      "sha256": "3a6ee0c9a6d69eea22a7ba80847d477235ab599a8af04fc35a4b54f130bb4e12",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-deterministic-skill-20260911/your-memories/skill-test-result.md",
+      "size": 849,
+      "gitBlob": "b7a88975e8ec0d093be2bb218b516d78bbb77d57",
+      "sha256": "7fc2c974c3899eb7a2f6a11a1eb470e0f7f4ebc387541c3a8b2c24c134ff7e97",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-energy-20260911/energy-state.json",
+      "size": 2002,
+      "gitBlob": "b4690af7875ac69ddde93bc93ec46698d72e2abc",
+      "sha256": "d5313fd2ef71758b3c8ccaf3c05a2b44c426be56052d8dc0eb2b499455ac11c2",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-energy-20260911/qualification.json",
+      "size": 3423,
+      "gitBlob": "7572066027ee9949c9f3240d8f9957a6222cc937",
+      "sha256": "0d15934deff4c4ad7982aa32fca1a206f7895ff452aea8ff6482f238459911a8",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-memory-portability-20260911/hpubuntu-memory-report.json",
+      "size": 1354,
+      "gitBlob": "00e494b97632078e604a7d61ae6f41b3d7f41f02",
+      "sha256": "17552d0bec0ecdbe69ed9184ebbc69156e23ca609faa6d2e847927654c513594",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-msi-memory-20260912/msi-memory-transition.json",
+      "size": 1155,
+      "gitBlob": "b6de8e98688b8f67712a64af635a669eb17b6f31",
+      "sha256": "009c116af3556c246113610690716c39a1fd4dd9cd2ca46841569951764f7e05",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/environment-discovery/agent-control-environment-discovery-physical.mp4",
+      "size": 2078595,
+      "gitBlob": "0e1de0a92f2be441ab159e22cf56e717459ea7c8",
+      "sha256": "a644fb76332a3265082121d64f0788b19af074929783d9bfd916498b2290ebcf",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/environment-discovery/complete-human-readable-transcript.md",
+      "size": 866,
+      "gitBlob": "a56680c1473d55bc6f9fb4f2d1121928ed7dcf16",
+      "sha256": "99b0928ebc6392a760a37aa3e14750df9c4ba6fcd3abdf70b2a097c1072a26e9",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/environment-discovery/environment-discovery-dashboard.png",
+      "size": 911634,
+      "gitBlob": "48ae5341d9eb48137dc7cede92eeca74c4f90b35",
+      "sha256": "105d1de00c3a73c1f57c123b98de8d14690627f5c57e6bc51e0e177dc9c5b659",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/environment-discovery/environment-discovery-drill-down.png",
+      "size": 908472,
+      "gitBlob": "4b4151e1079981031cfab45f83643e51fa8ce6ca",
+      "sha256": "59b0bccc42ec0419aa2c6da68a4a94fe252f8b90f58650ae785d1e6201108663",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/environment-discovery/estate-map-dashboard.png",
+      "size": 368405,
+      "gitBlob": "5e1d79db2b42cc8e589200ee548da480dba86c12",
+      "sha256": "a6deeed6c79919d614b2d67a0959fcfb085107444661575c09d530462312c9fb",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/environment-discovery/evidence-manifest.json",
+      "size": 2472,
+      "gitBlob": "99b37a44460d0ea6a41c4165f258d304cde7de5d",
+      "sha256": "2e5d9a41c6632cc164e4ab9ad692387e6b9e1f7a41cea8d9224f4cd2f0394816",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/environment-discovery/physical-scan.json",
+      "size": 10630,
+      "gitBlob": "4453b94e90523a0b271d8409f83906047f445b47",
+      "sha256": "1413bb55e27ada6a5da7096de24a4b070500ba38c39a4780d1b9a6ace17e34ff",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/evidence-manifest.json",
+      "size": 3814,
+      "gitBlob": "36c009eb3467c8921055eaaa3ac00e43ef8218c1",
+      "sha256": "541e9333486f9e19bf9847f857ffb075eceb06712ac9cc284b5c69da4f575b94",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/memory-glm-to-qwen/cross-model-memory-qualification.json",
+      "size": 18986,
+      "gitBlob": "4ba0d68795d49c61f37b4475d5ba3c7162539568",
+      "sha256": "2be6600bfd49520ec01f5d75de028bd0e23f672cbdb9ec30d97bc0686fb59f42",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/memory-glm-to-qwen/cross-model-memory-transcript.md",
+      "size": 1404,
+      "gitBlob": "061ac1394deeeca6020816615521b90b306a2300",
+      "sha256": "debba6b33e4bcccf7b0447456bd33de066cb481d52b65c6b60f54a9876b08b56",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/memory-glm-to-qwen/runtime/artifacts/artifacts.json",
+      "size": 3774,
+      "gitBlob": "55bd458e0e70133f59a9602fdf091bb39d10bcf7",
+      "sha256": "dc9735ef1c022c596d1cfafa17ed52d19b009820b82b43bda9fa23daac678c21",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/memory-glm-to-qwen/runtime/artifacts/objects/artifact-21dc6b51-da8b-4bc3-ba39-cedb3489b064.json",
+      "size": 2955,
+      "gitBlob": "385d8e0ce275b525abea7cca5f8078a9fbd4054f",
+      "sha256": "17f12191976684325996c89b8153e071ddd72c58a384095944e24182153598f0",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/memory-glm-to-qwen/runtime/artifacts/objects/artifact-495f1351-0b50-44ac-9be5-e7396222c5ac.json",
+      "size": 312,
+      "gitBlob": "64a4b8b175db0132eb2593649bc4340395007443",
+      "sha256": "4226d4f11ba3d76ea9983fcc82eb0eb25db2160130a9ba641856a389e80782fb",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/memory-glm-to-qwen/runtime/artifacts/objects/artifact-f7afb2cc-ce5d-451a-8761-dcc2bc06bfc1.json",
+      "size": 403,
+      "gitBlob": "eae2f82f39e27402d2836dccb869c7024c2a9c15",
+      "sha256": "bcef97016796a75bd76d847c564a829786a6971c384533061c204ed3d6b271c9",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/memory-glm-to-qwen/runtime/artifacts/objects/artifact-fb33384f-7470-40d5-a698-b7c9f3ca664c.json",
+      "size": 2701,
+      "gitBlob": "f993c0644db8d78c12c2550d5bf7217741855c0a",
+      "sha256": "06387523fd3a3ada2d0e9fedbfb2d8a804989006a72ebc0cae7ce2a0e112089b",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/memory-glm-to-qwen/runtime/locks.json",
+      "size": 34,
+      "gitBlob": "b263a9e873a947846b140d1f5855746bbc865fa3",
+      "sha256": "dc8d39153c0e0e67aee3abea031749238848c3d77345d19559d1610b7f8347eb",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/memory-glm-to-qwen/runtime/poe.json",
+      "size": 14127,
+      "gitBlob": "c819baf02b28408890fec9210b0e1cbc1ace51b7",
+      "sha256": "9af54543d426e29bb5c34446feadcad9ab5b889930d94d9df836638224249ed5",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/memory-glm-to-qwen/runtime/run-events.jsonl",
+      "size": 3616,
+      "gitBlob": "5ff4c235e689f54bef015991480f03e194141ed3",
+      "sha256": "7da670cafca8c00771e27ec7aa92771bd742a2eeb21ea12b88713cfc19e07a2d",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/memory-glm-to-qwen/runtime/runs.json",
+      "size": 62007,
+      "gitBlob": "c7da1752025fcb6206a05f57a5e18742ff466bd5",
+      "sha256": "ffd4410a1cc1b11565e24199cea6bed3a419d3ef967611085bb1b8c23194ef0a",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/memory-glm-to-qwen/runtime/work-parcels.json",
+      "size": 153811,
+      "gitBlob": "3996de5a0899de7cf842e92649c8fc56348b7587",
+      "sha256": "6f5f3c79483b33ffba193140f4ee7993d78c57d51ce9eb8166b5eb92b087da10",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/memory-glm-to-qwen/vault/Agent Control/4.5-cross-model-memory/memory-glm-to-qwen.md",
+      "size": 2865,
+      "gitBlob": "c32cdedde58b7b7586d506ba4f5657667f38cf6a",
+      "sha256": "4e9e715633a888cee8180e4d70f7bbeabf1f3ea867a762cdc848bd4ee3fd61fa",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/memory-qwen-to-pixel/cross-model-memory-qualification.json",
+      "size": 19114,
+      "gitBlob": "2639eb88d844eec6c1e70a41fc3d23bea9a31f4a",
+      "sha256": "41c6f52b86d70a160ec58ced55a521b2b369125e42881e928bd76b0053f918e7",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/memory-qwen-to-pixel/cross-model-memory-transcript.md",
+      "size": 1414,
+      "gitBlob": "b9947f9e46683a5adf02ef3a49b5d75983be9121",
+      "sha256": "6f69d3d3378bf126fed631f5a89d4dac2a4414b369b154c3307dd4f8f89918c4",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/memory-qwen-to-pixel/runtime/artifacts/artifacts.json",
+      "size": 3787,
+      "gitBlob": "9f51a0ed8300e6796987baa2769070f695870590",
+      "sha256": "fe1daa0d4f0e764bd169970902f3fc9431ad90692c26300cb3270e507e4ad9b9",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/memory-qwen-to-pixel/runtime/artifacts/objects/artifact-1c0eb57b-dfdb-413d-b2b9-ed057b0ebc4e.json",
+      "size": 2764,
+      "gitBlob": "1a92892ec582a15767521f8aaea894552b2dffb0",
+      "sha256": "e04bb2fc1281dfbcb5b06d7ce4112a01330b01b7879f815a090a555791b6b455",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/memory-qwen-to-pixel/runtime/artifacts/objects/artifact-b6a67489-3800-41ff-b1e9-67df41a5d0a2.json",
+      "size": 417,
+      "gitBlob": "5d9dbfb853ad7d8116b6b47bdb702b4f9d233394",
+      "sha256": "855fa7adc77cbba923aebc7d5aa2c694e0208c4b887212edc410d90bd0a97def",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/memory-qwen-to-pixel/runtime/artifacts/objects/artifact-e25e1410-7ae8-4111-b225-98ebd77c1684.json",
+      "size": 326,
+      "gitBlob": "77718dedb1ed26e06f111b3bd305c9710c90b9c8",
+      "sha256": "6840895fa0ecb5d60e7d1478c65bc2ea960589788b00f764cdeac5cf06e8259d",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/memory-qwen-to-pixel/runtime/artifacts/objects/artifact-f768eaf0-8a45-4df7-bd98-ad51bc7d26a9.json",
+      "size": 2967,
+      "gitBlob": "3667e3c698d16510a86ecb8a4a60f1e115fde17d",
+      "sha256": "4a3dfc5acb4f3ec9273b5ceabf56f6193dbc9ee3347efc3318e24f45b9df1752",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/memory-qwen-to-pixel/runtime/locks.json",
+      "size": 34,
+      "gitBlob": "b263a9e873a947846b140d1f5855746bbc865fa3",
+      "sha256": "dc8d39153c0e0e67aee3abea031749238848c3d77345d19559d1610b7f8347eb",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/memory-qwen-to-pixel/runtime/poe.json",
+      "size": 14679,
+      "gitBlob": "1ceaa5406ea8c00bf1d404f019f8da3aad565314",
+      "sha256": "68efbc8b4dd8226a8510b1cbf34e927885c0e8dd1e70751fc5bfa40f8b0118f3",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/memory-qwen-to-pixel/runtime/run-events.jsonl",
+      "size": 3616,
+      "gitBlob": "ac63ce2ea52226210b980d8161da287ca3fcebc8",
+      "sha256": "0ad0874679a4a40f7bdd192d44bbf348dfe9d1654d165355c6a91f2747de4a32",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/memory-qwen-to-pixel/runtime/runs.json",
+      "size": 63074,
+      "gitBlob": "3c97db5828abd95848d82f03425845c075427b80",
+      "sha256": "64b9183d309ad3d0761d6775e942260cf846bbb32acf2c1e5b1d45c67b0b5264",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/memory-qwen-to-pixel/runtime/work-parcels.json",
+      "size": 156765,
+      "gitBlob": "5dafa69892f19a975c55ade380f234f6ca1a0397",
+      "sha256": "365bd0c3bce0139d5d260112354566280a081db7247d059f6f3774749dc88d32",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/memory-qwen-to-pixel/vault/Agent Control/4.5-cross-model-memory/memory-local-to-gemma-e4b.md",
+      "size": 2897,
+      "gitBlob": "8abd8673e7e90492acbcbd69af6239c399173576",
+      "sha256": "5ab62954a439927d80f3dc1e7e3b84efa37e95ea69d174ba9508923c5dd6e6c2",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/release-closure.json",
+      "size": 5677,
+      "gitBlob": "d1eb9f9c2fa543c994b708fe044492ac65bbb534",
+      "sha256": "d138275bfd76caf0a72d10d289a8fe41dccfa3c2c4acd52b8e7bac2919a480c7",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/runtime-map/agent-control-4.5-runtime-map-six-job-visual-acceptance.mp4",
+      "size": 13155335,
+      "gitBlob": "1dca9fed398f115b55c285ddb9c70a00f8f32354",
+      "sha256": "b539bda2d58e4156f14a6eb34209e5b019df12399eb7229b5d5ad72c0a455256",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/runtime-map/complete-human-readable-transcript.md",
+      "size": 51354,
+      "gitBlob": "dccc03101ed278082ae50dd7444e268ec6125274",
+      "sha256": "0e796652df1a9dfc624d5064594dc66761866d5bc87dbd9df8b638b717c553c8",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/runtime-map/qualification.json",
+      "size": 23175,
+      "gitBlob": "7a15e2998600775d14c7551945b3199c5b0d46d9",
+      "sha256": "431f1165a554810a9e22d84a6d318f69654bafb8337b9b9d0710d605cfa15ccf",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/runtime-map/runtime-map-complete.png",
+      "size": 546420,
+      "gitBlob": "354c1ca3ae004feea655125cf6023fc6a413b828",
+      "sha256": "8e1dfa32f1533f818e7feaa1f1c9cba0f5ced5b3a12d35299d99bbad81fb6e38",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/runtime-map/runtime-map-control-room.png",
+      "size": 521904,
+      "gitBlob": "26c6d910b7a702ea61a712d68b95717584d371f8",
+      "sha256": "0112c5391f5320ac2daee604d2ad2d132cf9709d25a9be49e6b5cd7b48f1e693",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/runtime-map/runtime-map-estate-cross-link.png",
+      "size": 425984,
+      "gitBlob": "6e846ad425648dc449a9984e9ac4eba9d5ff87b7",
+      "sha256": "3f95ce6a598fdeec3d31b7e9fc7c0bf5efcde6a2ee6b5ab282a289c87fccbe40",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/runtime-map/runtime-map-graphical-compare.png",
+      "size": 515697,
+      "gitBlob": "deee127459a1983c1aacaa7ebe3fb71780d43703",
+      "sha256": "a2b7070b645e04c81f1876a00fe6c2563f63ce14cb4782d9f28a9314f822f611",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/runtime-map/runtime-map-live-session.png",
+      "size": 375693,
+      "gitBlob": "5d20e7f4ad69c5cd696e9104a762d74bd45623ec",
+      "sha256": "ccfb026afd92aadb00737016db95eee07459c528d8e783db89471290ac7d442c",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/runtime-map/runtime-map-poe-grounded-status.png",
+      "size": 698464,
+      "gitBlob": "3c7d9e1aed1c30a499344da17652ff94e8fcd28c",
+      "sha256": "5352e904f6c5419cee483a946ab6ee878bf82d17b39f35e4b16e47be0f86ca90",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/runtime-map/runtime-map-replay-fan-out.png",
+      "size": 552362,
+      "gitBlob": "8c3c3ae5e9f5c20b283adf9b5fc34b86f6cc03a0",
+      "sha256": "06005c04494f034f1dda32abeff05f1b2ea50167dadf9964857afe46b130b8c0",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/runtime-map/runtime-map-six-jobs-running.png",
+      "size": 456442,
+      "gitBlob": "06b7081599db8d33becb036215a52730b57c7632",
+      "sha256": "7c1d3607d19808b697200b322fa3feb376789d49725a62999d21b48b7f321b6f",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/runtime-map/runtime/artifacts/artifacts.json",
+      "size": 8200,
+      "gitBlob": "bb4119d287a2df0e6cd4f4c22b6eaa9fdc16ec6b",
+      "sha256": "6053cd20f51fd142ff0fe637b936bdd6b88e0ce42fbef12676dc516f215c4e42",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/runtime-map/runtime/artifacts/objects/artifact-2de0c8d9-fc77-4077-9ab8-03439acd9107.json",
+      "size": 74,
+      "gitBlob": "04de353b2cd058e5f638dcede3beb6afc5672f52",
+      "sha256": "755ad10c0fd3cb606ca4d7e46466f80494ca41a16c520d43781e924da585e793",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/runtime-map/runtime/artifacts/objects/artifact-522db246-e4a9-49d6-a56a-4c6b37597fdd.json",
+      "size": 93,
+      "gitBlob": "7c8cfec3ac1a0ba6d6dec502f201198b0edf5fca",
+      "sha256": "3dd1feb8e7727af47cc5ceb1747dd0d67c45ce01f5821590335771879c3878d6",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/runtime-map/runtime/artifacts/objects/artifact-5487bdf1-bceb-4593-a0a9-cfc265da2c57.json",
+      "size": 155,
+      "gitBlob": "f5bf6be220894ca654658fe7ac3dd35a2789d8ce",
+      "sha256": "0511b1778c3d5f1723e91fb9959a34d24e38d1e275f0d5a451a3245f74f735d1",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/runtime-map/runtime/artifacts/objects/artifact-a4d96222-186b-4657-8c55-070ff61b099f.json",
+      "size": 99,
+      "gitBlob": "13bc086cb259d1fde1913807023eabe546f171f5",
+      "sha256": "564ad216555c010f4908c91a8f7770af832ae4d876b65d253ce0a65c73e759ab",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/runtime-map/runtime/artifacts/objects/artifact-aa2f3ee2-c0ed-4f13-8d8a-45d887013c7c.json",
+      "size": 226,
+      "gitBlob": "c1b2e09b8d897e020dc67754994bc22ed244a76e",
+      "sha256": "4cdd6b30d9dfa24094a885c4e43320d74b08788c98840765b03353f65c12f73c",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/runtime-map/runtime/artifacts/objects/artifact-ad1f39dc-e84e-415e-8c4a-612fee5c0c98.json",
+      "size": 130,
+      "gitBlob": "3e974d6af4b50b451128149bc280ed9bf3de9e3d",
+      "sha256": "7af0168a2946b64bf4ed9303e55bfc3d947ea2cd74a8ef9d10ae5d4bbee3d3ff",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/runtime-map/runtime/artifacts/objects/artifact-c5756da2-f77d-469c-82c8-1baee941791c.json",
+      "size": 138,
+      "gitBlob": "aa25d0b56f722ce95a4b59d0f5c640ac73e0335e",
+      "sha256": "c5c7f76aa8850a5ec523fb2c325ad4cb2d852fd01f97bf396838889addce4a2c",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/runtime-map/runtime/artifacts/objects/artifact-ed12b7df-2aca-44ef-a5b0-e8abe100c5cb.json",
+      "size": 46,
+      "gitBlob": "39c159b004a9da99dd315d906519e9695be2f34f",
+      "sha256": "b1099a6478667c14e42d377debb6bce2618a88cb2c063033f9d3c2d24757ca27",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/runtime-map/runtime/artifacts/objects/artifact-eefd1ea5-556d-4a78-83d2-36890987ff04.json",
+      "size": 539,
+      "gitBlob": "0133bc4cb562a311d88718aae03f469fae4df8f8",
+      "sha256": "88fa9b83bbbcf0070b12c066ff89ecb95976227d246dcaa9195c1d9dbdc37013",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/runtime-map/runtime/environment-discovery.json",
+      "size": 21798,
+      "gitBlob": "17bb95e93286b4461e44dc57545e53e9d0d57f2d",
+      "sha256": "ba65f7a1267ef9c17df0c22f6ee53c69c16f7630ff83648297a6676c36d16fc2",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/runtime-map/runtime/execution-sessions/events/session-8bc5e53a-7ae3-4a4c-991f-3c134c898de3.jsonl",
+      "size": 1091,
+      "gitBlob": "f5d46bb1d4e892eb57c373a7626e7c783d3535e7",
+      "sha256": "12d1cc724157d40fc0b9d9a86876fd670276676e55055f5fc7bbd3c0baf5cfb0",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/runtime-map/runtime/execution-sessions/events/session-959a9ba6-8577-40fc-8979-8bb57af598f1.jsonl",
+      "size": 1395,
+      "gitBlob": "bff676cea194fc333e921f81b7fb2005ba89bb6c",
+      "sha256": "670c922015c8bb8ac83a922c0a59b79abb738c0814f58fea7c6e23bef83da411",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/runtime-map/runtime/execution-sessions/events/session-c8de0aa3-9a2a-431f-8fff-a2ee6731750f.jsonl",
+      "size": 4984,
+      "gitBlob": "42799a1b2a37a48d7be6907e95fcdb2d2e9b8fc8",
+      "sha256": "2c1b7a3a1897c6691d6ccc0594fd89523351ca8a2aa5a8fa3d297d7d86747ff6",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/runtime-map/runtime/execution-sessions/events/session-dabab933-c274-40d0-8de2-54a3e646c383.jsonl",
+      "size": 26924,
+      "gitBlob": "54ab9ff9e4236a0877b7bf2e21616cec6306186a",
+      "sha256": "d4df028de9ba6e34289f6b5cf937372f7e1f93c66db56d6c3c005dd50789a045",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/runtime-map/runtime/execution-sessions/events/session-df9bc7cc-0b63-4a0e-a3f4-92f33a6d0441.jsonl",
+      "size": 2215,
+      "gitBlob": "b889bdceec9af05450a2fabe798e7d40d753e55f",
+      "sha256": "94d0669016b4533d42071d32ab9d7954c0193e8eadd43fb51a8d311a80bf9191",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/runtime-map/runtime/execution-sessions/events/session-eaa10b71-50b7-4b23-86e5-82e44d53adc2.jsonl",
+      "size": 2508,
+      "gitBlob": "dab2c28977a379950b274373013055c5bbd8576a",
+      "sha256": "e55dd20e30f5f0f22b5a8ad36eb4a68923a5ba2a8baa5aba91f42bfeeb4991de",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/runtime-map/runtime/execution-sessions/sessions.json",
+      "size": 13921,
+      "gitBlob": "2f33acc57ad4664a015578461dd7fb38e6df8e3c",
+      "sha256": "593c5f20b7e1adc1e14d70228c306bd0ef2166ce18ce3c77bcbf219c2eaf756b",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/runtime-map/runtime/invocations.json",
+      "size": 5153,
+      "gitBlob": "5c02319e5d32bbca9184c339960e443841e78181",
+      "sha256": "826e1ec8ba068d9774a5808be865a901ea3f8b484b0dddfae381d9d76cc7d3f7",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/runtime-map/runtime/locks.json",
+      "size": 34,
+      "gitBlob": "b263a9e873a947846b140d1f5855746bbc865fa3",
+      "sha256": "dc8d39153c0e0e67aee3abea031749238848c3d77345d19559d1610b7f8347eb",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/runtime-map/runtime/parcels.json",
+      "size": 340921,
+      "gitBlob": "06744ec46089d05da6adcdfed7df6ff8c4be6e67",
+      "sha256": "773dcc84babc18cd3ba6ff7b5b5adc3cc96b47447be669ffd9d1e5b8cdbcd7c6",
+      "reasons": [
+        "qualification-path",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/runtime-map/runtime/poe.json",
+      "size": 8029,
+      "gitBlob": "66fb05b5dbc2c87304d93b8dae4e919c0e05d498",
+      "sha256": "155c8fcc26bf8355a66f02f14f5b4f92a159853588785e13b0dbd28f2a565c89",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/runtime-map/runtime/run-events.jsonl",
+      "size": 8981,
+      "gitBlob": "622c3f64ddff47bc505aadcd23200eceefb47d4b",
+      "sha256": "e774da2a98058f072bd48089f290222e6b62c323c67ef3a4a679fd6b33aa9b75",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/runtime-map/runtime/runs.json",
+      "size": 137166,
+      "gitBlob": "898cc4daa8978bb619e7fbc89d904a7fefab92fe",
+      "sha256": "3fd38b643c26c355f2142cb73f7daa93eba039e9f3fc8802c5f922fefc0f156e",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-closure-20260912/validation-results.json",
+      "size": 1615,
+      "gitBlob": "670b2f638a738d83c9b69ca5881557a345ced9d7",
+      "sha256": "c5bda1c49c1ba4b61c32c6a4ac7ba177dcafdcc6cc3723a9e9520b9036027b43",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-20260912/complete-human-readable-transcript.md",
+      "size": 47415,
+      "gitBlob": "7d7b888420fb45eafb4d5f4ca8ad7ed9b19f1fb2",
+      "sha256": "69982ecf03b9a9450640de9e852d203c3d5736856cdba77de810deb6b5faf0b5",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-20260912/energy-evidence.json",
+      "size": 4839,
+      "gitBlob": "f55e0f56924a664bc5f02ce2259a92b338a61083",
+      "sha256": "31cb247ab9126e3605342c4f0282f4991341539c5ec3eec876cb114e347d5eb3",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-20260912/evidence-manifest.json",
+      "size": 4697,
+      "gitBlob": "e7a0498f4dd1c8746a78427f33b3a401a090bbd0",
+      "sha256": "114a331e6e3d5b13fa3a6f0c77c2f6dfa4c6ecca6cad3739e4435c82c488e8d7",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-20260912/failure-analysis.json",
+      "size": 46687,
+      "gitBlob": "2c7a90b5184917e81350ca6e69508841f0dfa093",
+      "sha256": "39dcce7d169692518dd8be92ae96e789621c723cd65b4b8a518e5c27e757b389",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-20260912/live-poe-run/agent-control-4.5-live-poe-memory-qualification.mp4",
+      "size": 3214902,
+      "gitBlob": "59cef9b3eed8216f19beec9f7e3ec7aaccda9244",
+      "sha256": "256f5cbe52f6fe030dc5d045f98cd98e16753593966b88b06f9b968f8150cfff",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-20260912/live-poe-run/cross-model-memory-qualification.json",
+      "size": 21087,
+      "gitBlob": "fdef9aa5285bb4acabf58282f23945abdb41033e",
+      "sha256": "96c20cecac20157b2f085dd13a97d09e246b548f87c015dd1f7bda36ee865acd",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-20260912/live-poe-run/cross-model-memory-transcript.md",
+      "size": 1440,
+      "gitBlob": "d5ab1b37228e9d94c5474fb6bd58610505d5852e",
+      "sha256": "6fa8b67a4a89549491c01c0e5b9666f7be2e26952dc0e36d1ad7d3d517941db1",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-20260912/live-poe-run/live-evidence-manifest.json",
+      "size": 1671,
+      "gitBlob": "4594928eebf7db565ba20040e600418d6e14094d",
+      "sha256": "bc0c6ba5fe4e3daec5847badbc51ad04cc809ffd9492c8c3d427dca658a32ef5",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-20260912/live-poe-run/live-runtime-final.png",
+      "size": 233184,
+      "gitBlob": "138273f2d52fd94f3c8e6732c9965508f03ef5bc",
+      "sha256": "a6951f34d7ded18b060b29ee009d1920c0341022028e1b70f0c3918382488f7e",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-20260912/live-poe-run/live-runtime-snapshots.json",
+      "size": 11912,
+      "gitBlob": "f4842b5280d34e444ad2a70127d693b68f798d6f",
+      "sha256": "bb70eeff25604e6a1964c2c688a5d84e2d73dc1c497c1b225f2fb93a5fe9d992",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-20260912/live-poe-run/runtime/artifacts/artifacts.json",
+      "size": 3695,
+      "gitBlob": "02148fb5a0ebcdbdbb99a41cf8862e059fa1feac",
+      "sha256": "7ecf41ab0e80c527c8fc586522ac444a8d05d367faf7ccbe3a35e1a56986ce78",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-20260912/live-poe-run/runtime/artifacts/objects/artifact-53f0b0c5-be79-48c1-8ea8-339c4dcf3d58.json",
+      "size": 3088,
+      "gitBlob": "0d174b8519d2d769f9ecd23316f7b911a5f6ca7f",
+      "sha256": "165d2687abf01a1ee15719ae07354c656e95991a0983203d5136495440ffd2c1",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-20260912/live-poe-run/runtime/artifacts/objects/artifact-7f99eb7e-5dce-4b4a-a49e-1fdfb438ebf1.json",
+      "size": 3642,
+      "gitBlob": "45e8d3fef858b739587833369a994f1bcfef8c18",
+      "sha256": "181459f3ba51757257145d4178a1245fadbfb366a09169d101b0e99d75d4f614",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-20260912/live-poe-run/runtime/artifacts/objects/artifact-a14f84b6-2926-49ff-bf8a-20c6dca458ee.json",
+      "size": 316,
+      "gitBlob": "73ceae31e1675b855d4cca69adb69daefbb2b0cc",
+      "sha256": "68bda78c6101f57d02ba6e2d9410d634b3d6de75bbb149b9b2f1b566db6713e7",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-20260912/live-poe-run/runtime/artifacts/objects/artifact-cdf8df9e-4e91-423b-b0d6-f3f09167860a.json",
+      "size": 407,
+      "gitBlob": "724712d041e79b538a827f9eac64d0bfdd90dfe9",
+      "sha256": "211344815ec3b2ad207f3fc5aaaf802a060e05d5f5d5a70bb02bf5192bc812b9",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-20260912/live-poe-run/runtime/locks.json",
+      "size": 34,
+      "gitBlob": "b263a9e873a947846b140d1f5855746bbc865fa3",
+      "sha256": "dc8d39153c0e0e67aee3abea031749238848c3d77345d19559d1610b7f8347eb",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-20260912/live-poe-run/runtime/poe.json",
+      "size": 14210,
+      "gitBlob": "1a57bc452cbc4730d4714910e7a222802c2c0d39",
+      "sha256": "91cc318b906f7943a2893989901105115715c42ea6a729c3bbadb3ffd6c246c9",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-20260912/live-poe-run/runtime/run-events.jsonl",
+      "size": 2564,
+      "gitBlob": "997e77c36d1980c59e8f3abfcd960a9639b187e5",
+      "sha256": "e9b568188ed6cd32177684c27dd734be4153d2f7039f3545dbbc37d0d9df11dd",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-20260912/live-poe-run/runtime/runs.json",
+      "size": 58856,
+      "gitBlob": "64139b6e59ba1241da7b5bd8f9efdbf049beae45",
+      "sha256": "66a539c919ccd795a5c80fa9b9af1932de8db57be59a7d22ba7b5349588fb793",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-20260912/live-poe-run/runtime/work-parcels.json",
+      "size": 154870,
+      "gitBlob": "495e24c4753f5d89bfac0600c54a21aec911e373",
+      "sha256": "88fdc69eda8efc80b27b64fc819fa389b097960c2fa613b45bac41c6d2534527",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-20260912/live-poe-run/vault/Agent Control/4.5-cross-model-memory/memory-qwen-to-codex.md",
+      "size": 3200,
+      "gitBlob": "45e9ec32fca5e2b3d03868635d21e30678e9dd4c",
+      "sha256": "a081f187ea5c1c165c9829b9e663b9e6d696a4777eee47e47c4920821fecdf70",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-20260912/memory-matrix.json",
+      "size": 46771,
+      "gitBlob": "4e0e986d91c018ca6acfe119f4dda5f1ffbdfa12",
+      "sha256": "1633af3bad17db299ddf3d38fa5bac1e2fa01b7383888fd5b55423109d8726aa",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-20260912/release-gate.json",
+      "size": 52562,
+      "gitBlob": "fc31742707dfe6364523acf9b9c7b7b3d80b3b52",
+      "sha256": "546d9729cc6be81f4823f1a3a7c5e033d956c2f7041810f1ba6e53a4db037819",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-20260912/source-reruns/field-mapping-v3.json",
+      "size": 16577,
+      "gitBlob": "6cf03df52d99be6af6506c6872dddbae5539c9c9",
+      "sha256": "0ada99aaae8fc265b352c6fee2f31b6cab3bbc6583c3a82d01c619038c169753",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-20260912/source-reruns/glm-final.json",
+      "size": 15727,
+      "gitBlob": "4e71c5ec750eed57b95c861fe448b2edb6099b21",
+      "sha256": "c6bda8d796e0c78da4f253106ee96586b906a8da525e4f9b04508e2dbb70884e",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-20260912/source-reruns/pixel-final.json",
+      "size": 40712,
+      "gitBlob": "47cad0e068e1736535401a6a23a4e2eccd27864e",
+      "sha256": "536b0f8d5c00befc334684be5fbed1c7fce821af568ff2200616a6abdbf8c201",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-20260912/source-reruns/prompt-repair-v2.json",
+      "size": 40413,
+      "gitBlob": "ab1dd339780c7cf77f1f73e0f7d330c206351949",
+      "sha256": "f93bca2d7dbd9f21a2dccbe29d5da3c324c88a84ff19f362d94fa5174ff580da",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-completion-20260912/complete-human-readable-transcript.md",
+      "size": 36944,
+      "gitBlob": "fdacbde69fab83ac042513363fa3812f569a949a",
+      "sha256": "43f182ec4ef85e12437728fbe59109f48667218e8c3452c1a503b9f5316c2d85",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-completion-20260912/consolidation-transcript.md",
+      "size": 1475,
+      "gitBlob": "1fdfeb8b3e9e742d6ee429aad0d71a7ac6c61253",
+      "sha256": "78c1137b888e08dad85d58819f474ddb929affb93b662d16da239a433b90f43a",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-completion-20260912/consolidation.json",
+      "size": 28769,
+      "gitBlob": "6a31f78c7227f710af16415c979599126a2e6e89",
+      "sha256": "954dadfdd1deca29558506c9204982cf898c77b2928ced893741d5a6d4d0f02d",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-completion-20260912/controller-memory-transcript.md",
+      "size": 1988,
+      "gitBlob": "84422d90596d4e141a4e604bada3c5e435edba45",
+      "sha256": "e27995dc2cf771d647ae8065a99ce49f9ec341509014a8c50c44fed6805aa60b",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-completion-20260912/controller-memory.json",
+      "size": 19765,
+      "gitBlob": "6c5ce7d401cdcf2a13777ec61bbe36e9371a8f0e",
+      "sha256": "48b1cfcf4c6e2c9dda1ecd0691ed334522deaaa881f74c0bcadbc81a9d613d97",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-completion-20260912/energy-evidence.json",
+      "size": 1857,
+      "gitBlob": "c2549d6646d89700163ec1da6fd75d17305ce6dd",
+      "sha256": "57b830a05e52d02efbfb57d4fbfc25fbb96ac36840c509595125a6c3a559d112",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-completion-20260912/evidence-manifest.json",
+      "size": 4107,
+      "gitBlob": "b456bedb71fb0fc47f18a0c3a5f0213f48750093",
+      "sha256": "bb9400ad0ecfa5c834fde7627442708e0c478650c8967c3ff4a1e44a3eb693d2",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-completion-20260912/failure-analysis.json",
+      "size": 2515,
+      "gitBlob": "95387fefb5c60bed729ca8d3609d5ed11f3ae3e1",
+      "sha256": "0ea59af2e3d4616184127811ff0fb4bfb0c26f5776ecb8d77b3130d43252b2f5",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-completion-20260912/historical-memory-matrix.json",
+      "size": 56172,
+      "gitBlob": "4962e9422dd8f092178c5839da522a1d0ea80c55",
+      "sha256": "a4512de7b1c5f352df06a2d2c48309d270721d12fc0588e6d3529b39c8dcc29a",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-completion-20260912/live/agent-control-4.5-live-poe-memory-qualification.mp4",
+      "size": 2462626,
+      "gitBlob": "7ef093ccdab59d711404bdfa906b8eb31f86467f",
+      "sha256": "72f2462c42469076bb74fa1087d54c96ff91630c9c2aa0094e1b6700c3c2922d",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-completion-20260912/live/cross-model-memory-qualification.json",
+      "size": 23318,
+      "gitBlob": "2d7d01bb6f94967d91627c06061e251176d0eb77",
+      "sha256": "43f1eb4d803e13e42ef2d700b90eafbd3370f337ac6bf16696769aea42ad238d",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-completion-20260912/live/cross-model-memory-transcript.md",
+      "size": 1401,
+      "gitBlob": "b8870f00539d1481ecf9ea3c997894c4d9f03bb0",
+      "sha256": "bb5baf7130ff8458bc0dce8934d8dbbc17430a96bf929bbf4ae301395d789254",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-completion-20260912/live/live-evidence-manifest.json",
+      "size": 1443,
+      "gitBlob": "d6f8c8708c2280b9625454ac1825c2c38977841d",
+      "sha256": "7e268d3ab3120e8fd5d3e93f5b0d570478e5001a24c6a3d777a0d4b1b034fbfd",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-completion-20260912/live/live-runtime-final.png",
+      "size": 243772,
+      "gitBlob": "048558b7c09b0b976552a159c4c92878b685db73",
+      "sha256": "0358b969a02f57b1c30eccc32e5b165d4d460099fa2530e81a36748873c39213",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-completion-20260912/live/live-runtime-snapshots.json",
+      "size": 3027328,
+      "gitBlob": "67f2c214d43a0c1d9125e9d556e916f5754dc3a6",
+      "sha256": "af68f65e2d89097600b0efaeedf2aa33ce2b4361d04d4c3853c216246c699f95",
+      "reasons": [
+        "qualification-path",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-completion-20260912/memory-matrix.json",
+      "size": 18754,
+      "gitBlob": "8b8eefee5e3afaa7eeea06d51baf011217feccb2",
+      "sha256": "f1425aec95e62899bc07d41f352ba6df7f42a47bb074a105378ad28aefda2de3",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-completion-20260912/memory-route-qualifications.json",
+      "size": 8653,
+      "gitBlob": "a0ba0ff8257ac542b87541a1c58c0bd8d7a2aee5",
+      "sha256": "bb45bb75147ac7bd16eecff25f1e4521b62cc68fc7178bda3f8d4a6849ef0c97",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-completion-20260912/msi-account-status.json",
+      "size": 1430,
+      "gitBlob": "3a03b78278e395492749be41fda5329b236a10b9",
+      "sha256": "3efe267a318d3bd9cbb29c4e963e65f413f4fcedd16b42a64216710d57aa5de3",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-completion-20260912/msi-memory-transcript.md",
+      "size": 1280,
+      "gitBlob": "2cc26af1407b1e3d470e4918d8037c6c7ba7e56a",
+      "sha256": "5824037e2226426bf3e0f4a3c11e63b7059839d836c9beaba92e310a97ff69d4",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-completion-20260912/msi-memory.json",
+      "size": 19911,
+      "gitBlob": "aaf9c7257171cb992bc39b3bfae0972b4c261774",
+      "sha256": "274b20399a34acae605269270562dfcf4ec30175f05b9e8916a7f6351983ccdd",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-completion-20260912/pixel-memory-transcript.md",
+      "size": 1964,
+      "gitBlob": "fe1570052b097b390ed4e8154c8a3e537168bd05",
+      "sha256": "2b87d0a22af1436a7a36e182fae65b6f4c6639bb040d80aa8b14f0bd55fa8ea8",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-completion-20260912/pixel-memory.json",
+      "size": 21046,
+      "gitBlob": "925f1beed1f2387e3809593fc46b186bb8cd6f93",
+      "sha256": "db5fdf09a5fb255e2f815756d6a1acc6c11f85e0bbc025c81a108b72263789dc",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-completion-20260912/pixel-writer-repeated-transcript.md",
+      "size": 1990,
+      "gitBlob": "8cfe89719aebeb8f6d4deea9b23f87ab2280064f",
+      "sha256": "a324ed04a478eaa14f6d00219c6c7ce779e77ac4439ed6ff445336e87f9a6c4b",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-completion-20260912/pixel-writer-repeated.json",
+      "size": 19366,
+      "gitBlob": "1e7556db0ee7c95f724d020cb9a3e8ecfe719fe4",
+      "sha256": "915fa599fd024ff940b3f140c03e801b19883d97722111ebb15e59d9ca78ba70",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-completion-20260912/release-gate.json",
+      "size": 8938,
+      "gitBlob": "e623bfbf039e27b34aa4d5c948797f65f0fb9834",
+      "sha256": "0325efb189872cdc84d3782dc0d51618b3c9f2da04f9be367b726524bc57fac3",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-release-gate-completion-20260912/specialist-batch-energy.json",
+      "size": 27293,
+      "gitBlob": "7a3c87315bf8f9ff3e8283d7d9879a2c54944cba",
+      "sha256": "dfad1e9806698a9614656baa05945df4605cf1fde5fdba56c1e0bc0049616629",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-residency-20260912/residency.json",
+      "size": 3989,
+      "gitBlob": "ec75719d13ff0d9793f5b9ba5cf13eb37cbb2b4e",
+      "sha256": "5588cc6db074a73f3820d33492cff987504169a2ef5c78fccb397933689126ba",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911-rejected-initial/baseline/baseline.json",
+      "size": 8807,
+      "gitBlob": "fb98ccf34cfd5c73c1173e73bd78c834796fc0a3",
+      "sha256": "d35efb68ebaccf0b4d24695304c2cb678ec62e1502103a94b0f91ada66ec2210",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911-rejected-initial/dataset/eval.jsonl",
+      "size": 4946,
+      "gitBlob": "d2bfecc32b0cb4c0bc13c3839b3c4459b7692a47",
+      "sha256": "5914b61da164b61b761760c9ed99c836c007d6eb370fc99b8ef3b944ed19f132",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911-rejected-initial/dataset/manifest.json",
+      "size": 3959,
+      "gitBlob": "91b995c1ecf326d63cee8283250caa9689637a1a",
+      "sha256": "03590e8400fe3eb77f06c1e7b55256db8ac4e79da29e965ca0083a9393358168",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911-rejected-initial/dataset/train.jsonl",
+      "size": 14988,
+      "gitBlob": "3a58fc993deecbe3c31ecb9a6e83c7c35bc1a68b",
+      "sha256": "e212a3236cf983bf5724a17eabdcba95612c3335d594353873da9f8d5cbefc62",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911-rejected-initial/specialist/evaluate.json",
+      "size": 8020,
+      "gitBlob": "89de645b55e9f21a0c8e7b4dfc3aa978847ebea5",
+      "sha256": "b3a001e953784392b12fbe1b08a9e049b65fa3e616bdb13f573f2337664f1fac",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/baseline/baseline.json",
+      "size": 8772,
+      "gitBlob": "b1f6edda4e3f8ead782c7ee25d744ec1c4809bf2",
+      "sha256": "72ab479358a887db33f4345b7a3ac52e7c5808f87d4f4c109caf160d69eb497b",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/dashboard-config.json",
+      "size": 14191,
+      "gitBlob": "b267a30c4cdf4ff933a4fc17e5db7b5b83d88739",
+      "sha256": "11bdc4a1e1d6a238e8f12714c54189291ee4a8aafbfd54cd53f9d4eb891ebb7f",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/dashboard-learned-specialists.json",
+      "size": 377,
+      "gitBlob": "d8befcffb4c3e7c89bf56eb73792f69db6a70ef6",
+      "sha256": "513843ed30c5fb39ff4e75132354f3032d51c787bf577a80e6d15524eda38912",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/dashboard-learned-specialists.png",
+      "size": 845006,
+      "gitBlob": "5f95eac22905f22cb5fa0bd108124026a5b7f0ec",
+      "sha256": "e6151f55aa1f5505049aca260b460c83b02fac99436fabfbe6c53630d5f015b2",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/dashboard-state/capabilities/intelligence.json",
+      "size": 26085,
+      "gitBlob": "a5f7652c3d63349d61e0d38e73b9e9e7c8e01961",
+      "sha256": "494a44cab20fc133c37601858571b1cf453d83085c125477a3bef36726c0adf2",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/dashboard-state/events.jsonl",
+      "size": 1272,
+      "gitBlob": "fb15d81579db3a6aaae41b4f29d0e48728c71dee",
+      "sha256": "79f569860686a6c24852efdbb4683b4955dccda4a79249d0d3958b5f6a11eefa",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/dashboard-state/identity/control-plane.json",
+      "size": 2068,
+      "gitBlob": "69686ea135c52f4ee3d64d00fc2bdcda6f955693",
+      "sha256": "4a60398393f736cf9662c101ad50395f0792c11d5f5f2f13edf4f046230ba999",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/dashboard-state/jobs/run-ledger.json",
+      "size": 274,
+      "gitBlob": "048b40d78de6ac950b812f4e2b1a7b3cabd4cc2e",
+      "sha256": "d9dddb0b5bee68a10b4d37ccfd9750de3b5ee4c2a66fe33bd260e944cf86b33c",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/dashboard-state/lanes/lane-001/baton.json",
+      "size": 299,
+      "gitBlob": "6a0693bc29e09bc5c87bc5f084eba7388c43585e",
+      "sha256": "935061e6f25056fe07e04d9b533330fccdfae13a850e3f40e8858bdebb7c7a0b",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/dashboard-state/lanes/lane-001/contract.json",
+      "size": 311,
+      "gitBlob": "dfdbf54be0bebbd8147dee283ade7bbcdcdffd71",
+      "sha256": "62df1dd7af3af275767b0adcdbd4b95a2726db6db4af7a650a5367a1e02ad442",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/dashboard-state/lanes/lane-001/lease.json",
+      "size": 79,
+      "gitBlob": "5d41de626ee66689c1af2b78cff7ae0874154229",
+      "sha256": "0e0d9d5da7ccf4a3b412300aea428cec73f007f2850aa9b89aab800990d56c94",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/dashboard-state/lanes/lane-001/verification.json",
+      "size": 107,
+      "gitBlob": "c27975f61de69d8fa22a53fda3fc96509fcd2f56",
+      "sha256": "ff9f9288cb1529a4f6108c6860a3a1516bbe032f92e11542631bf5cd22c92fca",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/dashboard-state/lanes/lane-002/baton.json",
+      "size": 299,
+      "gitBlob": "5a98b1bbad7090c9a74c30f87b371b7c107ee62d",
+      "sha256": "229f7d14847b1a2f4311f3c4e277f09876cd4d0fd73611cee6b287a7c608359e",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/dashboard-state/lanes/lane-002/contract.json",
+      "size": 313,
+      "gitBlob": "77fb6a6747d3a805926d12c205802ab1a7d3ef50",
+      "sha256": "77c00f902b3e86bc8b3a4f3870ac9471c72e0961aae12f5b87718d1d48e9b503",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/dashboard-state/lanes/lane-002/lease.json",
+      "size": 79,
+      "gitBlob": "b6a97eaed94b12142955b69d120656b913610357",
+      "sha256": "831f88fe92996259e84ee3653b89c2412bb04107027219ea211100088b61fc4b",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/dashboard-state/lanes/lane-002/verification.json",
+      "size": 107,
+      "gitBlob": "c27975f61de69d8fa22a53fda3fc96509fcd2f56",
+      "sha256": "ff9f9288cb1529a4f6108c6860a3a1516bbe032f92e11542631bf5cd22c92fca",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/dashboard-state/learned-skills/state.json",
+      "size": 19973,
+      "gitBlob": "c25cff09782b3a50c46d4aaa3810986182a8b833",
+      "sha256": "ac46134376f1511075d529a330497f39b77372a04e14e25eb8998ef97670e860",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/dashboard-state/workspace.json",
+      "size": 2438,
+      "gitBlob": "202bbf5e0c9cc91d202abfeb66a4a369a4bb2c71",
+      "sha256": "61cf4635cad3412036343a87eb1fcbba52ed58a54b7c084c69f536e6c7c20476",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/dataset/eval.jsonl",
+      "size": 4981,
+      "gitBlob": "05f84359f03aaea4dbde6fe18ede2e0e42e147a3",
+      "sha256": "99bdaed5fdeec9e44244859e80eaafb07f04940900d8f3be3619cda9dc7bb93c",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/dataset/manifest.json",
+      "size": 3959,
+      "gitBlob": "d53231579502d18d95892294cbbc1cc4af87696d",
+      "sha256": "5f3f282074bf1fd32c25f2e04929997688ae61d5959656355b96f53e4d1bb9c3",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/dataset/train.jsonl",
+      "size": 14729,
+      "gitBlob": "3a9ed94c587011a303adb74ba9b2c7e69aa60136",
+      "sha256": "a9f0c1ea6ed4b807b4d0eb8f55eca46e1bee537fbf6826f953c318593dfc0cbd",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/governed-training-report.json",
+      "size": 9819,
+      "gitBlob": "ca5e51e0524355c916801d70e35efff63a2c2cf6",
+      "sha256": "7cf9bc3c3f1f3f8ec4a38e7548e93542f6432ed8fbd845f0bf358b5bb1e050f9",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/governed-training-runtime/artifacts/artifacts.json",
+      "size": 928,
+      "gitBlob": "52c048106aee80447e104e85e3d0bb9023fc1ec6",
+      "sha256": "e2f7174ab7fa3f2aa0d07e5b58e803b6f6d475af28516351a020fddb79b6c7f7",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/governed-training-runtime/artifacts/objects/artifact-bd06a755-1776-4c1d-adb2-ea5a0dea9173.json",
+      "size": 650,
+      "gitBlob": "bdcad85d6ec960740802e820f55950a19d086fc5",
+      "sha256": "1b543829cc2c89793f946529512b48dfc95c3b1c882109299082abcd7274f77b",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/governed-training-runtime/locks.json",
+      "size": 34,
+      "gitBlob": "b263a9e873a947846b140d1f5855746bbc865fa3",
+      "sha256": "dc8d39153c0e0e67aee3abea031749238848c3d77345d19559d1610b7f8347eb",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/governed-training-runtime/parcels.json",
+      "size": 26407,
+      "gitBlob": "adaa5be85e2efeed22cb1d7af402903ff6057949",
+      "sha256": "dbdb88a16ae159a0a16bac1758d3843092e851cb3baec8076661a85663abd702",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/governed-training-runtime/run-events.jsonl",
+      "size": 641,
+      "gitBlob": "652beb0c39fd3e36c81ead9b82b6852922a1ec7a",
+      "sha256": "1062bb0813f3b29dac7587dcd81dfd21816b2c7fee72ce96bf5d648ac72f10d8",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/governed-training-runtime/runs.json",
+      "size": 7619,
+      "gitBlob": "fe039352aaa2febeddccf100649e0039f6e8157c",
+      "sha256": "34631025f26b6f75080b8b26a1394b043a15b4b50163497201cbc31d9a8ffc0b",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/governed-training-runtime/skills.json",
+      "size": 9246,
+      "gitBlob": "206f3e7dda454b7267ec664d07632243bc0c2fb6",
+      "sha256": "dc025544d6b3cb4c13cd6757355705f41dd9f40741c27e733b6c55567df2dff8",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/qualification-report.json",
+      "size": 3328,
+      "gitBlob": "989a497804f73b629632ca9e28ef60c3eed262ca",
+      "sha256": "33598090adce9928fba48903f2774a914aa7d8b70181e50914d2f5c96cf17052",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/runtime/artifacts/artifacts.json",
+      "size": 2675,
+      "gitBlob": "729a162a18b7dd5877b80ecdc3208568ae7142ec",
+      "sha256": "1a15ec17b8a8edf805119c7257435cc749e37a1a8c33c4f7ef7ae2ebcd9a4ba1",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/runtime/artifacts/objects/artifact-9c0d574b-d6f7-403c-9c07-6171aa8734d6.json",
+      "size": 833,
+      "gitBlob": "e0681503e289e31da226036498350d644c8f545c",
+      "sha256": "09d8b5ae524d21820421abd13486de0ecb48944cbfdf221e53931c718d84d970",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/runtime/artifacts/objects/artifact-c5055035-333a-4994-a10c-448e11da38de.json",
+      "size": 808,
+      "gitBlob": "8d4a145698dc334934d6fbae452187deb3eaab2c",
+      "sha256": "094a178c44d7d47d01a9dba4d064d523043d66bdb56f7cd339e9ba7c208d6891",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/runtime/artifacts/objects/artifact-d9b5db50-ee00-4ab0-a78f-bbc287418607.json",
+      "size": 223,
+      "gitBlob": "5f3e7a57975d3eb5144f27fe23e3efaef5a9dc38",
+      "sha256": "ad922015f42b8f657e8545e694b2dbace07ebfdab0dde9fa570e599359d199c9",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/runtime/locks.json",
+      "size": 34,
+      "gitBlob": "b263a9e873a947846b140d1f5855746bbc865fa3",
+      "sha256": "dc8d39153c0e0e67aee3abea031749238848c3d77345d19559d1610b7f8347eb",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/runtime/parcels.json",
+      "size": 83476,
+      "gitBlob": "b496eed96f8bcf2dd128881d2951b9f3e0ed1bad",
+      "sha256": "efea22d501fbf963ca3584b28f9e9853d13539c7e5372989ae40a48bc98877c8",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/runtime/run-events.jsonl",
+      "size": 3279,
+      "gitBlob": "238b6340d7518ba24b2e067f09bcff446eb31eb1",
+      "sha256": "5acfa48a20e8a23621363e08ecfdad31b4397eeca5db2eac044fda79064334d9",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/runtime/runs.json",
+      "size": 38296,
+      "gitBlob": "b2cf03ca219eda64022691978d08e7f15adf5430",
+      "sha256": "55bf004e149fa2313ff3e6f4c0cebd1cd3fa83d15071beb451ab6ce0510c3e07",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/runtime/skill-learning.json",
+      "size": 19973,
+      "gitBlob": "c25cff09782b3a50c46d4aaa3810986182a8b833",
+      "sha256": "ac46134376f1511075d529a330497f39b77372a04e14e25eb8998ef97670e860",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/specialist/evaluate.json",
+      "size": 7998,
+      "gitBlob": "a47b2a82aa99d659ebca6b9daec7b3657377af49",
+      "sha256": "a1838b50746c1dab7f66d49e9dddb67122118b340557112540e6897b26bb3967",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/training/environment.json",
+      "size": 160,
+      "gitBlob": "50d84b9af86460f236b1b32f5abc18ed01232da1",
+      "sha256": "a52ef7ed801336abcc0f8a94faf101ccde16fe03730b0c1a05ae859989ce652a",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/training/training-config.json",
+      "size": 447,
+      "gitBlob": "daa83488ead0e88b735cd46668b0208124222469",
+      "sha256": "4c31eebcc1fadccc38d36c28bb2a7c6f16826a7189bc7ceb85946076ae2ffb06",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-4.5-skill-learning-20260911/training/training-result.json",
+      "size": 849,
+      "gitBlob": "126bb319cb4cf27c462b2417a12c5784b91cd24e",
+      "sha256": "393bb45ff97c715f263e46e18cff1bc2462b49a4b591ccde3bc2c775a42516aa",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-environment-discovery-20260912/agent-control-environment-discovery-physical.mp4",
+      "size": 2175124,
+      "gitBlob": "e7dfd7f90ae2fd88b6a47d327d4634805826c92f",
+      "sha256": "0153ba46129750bcc765916def3f8189147bd672661410f7d0f719de9944ad07",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-environment-discovery-20260912/complete-human-readable-transcript.md",
+      "size": 866,
+      "gitBlob": "a56680c1473d55bc6f9fb4f2d1121928ed7dcf16",
+      "sha256": "99b0928ebc6392a760a37aa3e14750df9c4ba6fcd3abdf70b2a097c1072a26e9",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-environment-discovery-20260912/environment-discovery-dashboard.png",
+      "size": 912270,
+      "gitBlob": "f09e6a731bdac7dd4409fbe7296cae59d48e668b",
+      "sha256": "17dbe22262fedf8492d35496593c5846ba1065e31cb0d93dfd41c37e39d9c943",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-environment-discovery-20260912/environment-discovery-drill-down.png",
+      "size": 908794,
+      "gitBlob": "60e1c375301a93f3c77614af7a25689662c597da",
+      "sha256": "0a04022a5d4a5a54df3a3c52bd01d7f6c40cee02466e56b80ceea66ad30b3991",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-environment-discovery-20260912/estate-map-dashboard.png",
+      "size": 367750,
+      "gitBlob": "870fa5fefd2e7019c7a72e3c160359a426b03889",
+      "sha256": "e5c81e5382e47843e75ac8467036a6c87b06732fc9b85398cf55ecd26718f26e",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-environment-discovery-20260912/evidence-manifest.json",
+      "size": 2472,
+      "gitBlob": "5156a34bb56e3778386d1cc466c954486dad70a7",
+      "sha256": "720b1fe1d6d2e6a495a94c20975ee84f06ac5cfe3cfcf4ce2ace1fcc696adea7",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-environment-discovery-20260912/physical-scan.json",
+      "size": 10630,
+      "gitBlob": "7cc8e26896f7ce2f5eae957182541d1a341fa075",
+      "sha256": "be89ec3e1f26d02090718874e6bb7618a6a25458b7ea4ed10671e7d937c596ae",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-20260912/agent-control-4.5-runtime-map-physical-qualification.mp4",
+      "size": 3719811,
+      "gitBlob": "13a1828e8822ef5e2eef92999fb48636b5e59de7",
+      "sha256": "5cdb5a8708b4b08a0d68271a3914ca3742c67b64128e4d1bb50e78c8819df035",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-20260912/complete-human-readable-transcript.md",
+      "size": 7083,
+      "gitBlob": "0fa0fd3fcc496f0699e769a2870900bc35e2dcd9",
+      "sha256": "313a1d76305dc9961a2e235afb471af1eca4fa04be97f6fc81a0ca8b68b990a4",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-20260912/qualification.json",
+      "size": 6817,
+      "gitBlob": "de70b9f24ae82bfdac908d27b8dbfe1b8886c055",
+      "sha256": "336ee18bab15afcdc9bf4cfa5dd5f0d6e8e2771af08b91b3fcf058f75b5a68fb",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-20260912/runtime-map-complete.png",
+      "size": 348012,
+      "gitBlob": "0a5727e6a2f1cd9444ebbc6eac0d4fad6793b10d",
+      "sha256": "712bf9b34fd344d07313f9b76223456e597ce070c17b10b0889f15a05a6e066b",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-20260912/runtime/artifacts/artifacts.json",
+      "size": 5271,
+      "gitBlob": "3bb0ec508aeae663c3d83e4b0aba8b234f96df09",
+      "sha256": "c04894200dc3d665856a0cf6a6a7da837393f1f475cd4dfd814859131cc85a4d",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-20260912/runtime/artifacts/objects/artifact-01de3892-8c55-4ddc-916c-ee150541dc53.json",
+      "size": 395,
+      "gitBlob": "e4177ecb9986382bb6535e56c2930051c4005ac5",
+      "sha256": "3a9afa49bd905576bbe13a2e14cee7d16c0535eac1f848208cbc8e1b759de3c6",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-20260912/runtime/artifacts/objects/artifact-0a8bf2ea-3bdb-419b-a51f-3e656005bffd.json",
+      "size": 226,
+      "gitBlob": "c1b2e09b8d897e020dc67754994bc22ed244a76e",
+      "sha256": "4cdd6b30d9dfa24094a885c4e43320d74b08788c98840765b03353f65c12f73c",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-20260912/runtime/artifacts/objects/artifact-26ee52a0-5765-40b5-9e6c-6e1cabbd8883.json",
+      "size": 93,
+      "gitBlob": "7c8cfec3ac1a0ba6d6dec502f201198b0edf5fca",
+      "sha256": "3dd1feb8e7727af47cc5ceb1747dd0d67c45ce01f5821590335771879c3878d6",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-20260912/runtime/artifacts/objects/artifact-8dc512fb-0cda-4952-a861-a16689569aad.json",
+      "size": 99,
+      "gitBlob": "13bc086cb259d1fde1913807023eabe546f171f5",
+      "sha256": "564ad216555c010f4908c91a8f7770af832ae4d876b65d253ce0a65c73e759ab",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-20260912/runtime/artifacts/objects/artifact-98aff719-df57-4ddc-b29a-cc23e0b9f231.json",
+      "size": 176,
+      "gitBlob": "00d5f8d274aca34ba41965fbbf787d04372b9b8b",
+      "sha256": "b898e0b63538fd913e515e80fd366cbc3ce9754ba6eb1f5f2b68b600f8986829",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-20260912/runtime/artifacts/objects/artifact-ae6b65b5-d527-4b0c-968c-53352be75250.json",
+      "size": 46,
+      "gitBlob": "39c159b004a9da99dd315d906519e9695be2f34f",
+      "sha256": "b1099a6478667c14e42d377debb6bce2618a88cb2c063033f9d3c2d24757ca27",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-20260912/runtime/execution-sessions/events/session-4caa7607-9a80-43f7-a250-0a9f5ed046bc.jsonl",
+      "size": 1719,
+      "gitBlob": "e6397032c3a303ef76e5ef2cd3b38f79e14b481a",
+      "sha256": "7535e1e00f28bc365c896a2a7cf848254428e875204056d1572d415ebaa92a10",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-20260912/runtime/execution-sessions/events/session-65126d29-3625-4734-9d6e-076b49749f5c.jsonl",
+      "size": 2569,
+      "gitBlob": "7ccf13ec44f037cbb99f22277d720bfebfe06984",
+      "sha256": "940048fcc98f4e96c275c7474d1f75fa2efc802e8dace7144d45d29dc07e061f",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-20260912/runtime/execution-sessions/events/session-d86f8bf7-dfd6-4fe5-a596-bcc719e839e5.jsonl",
+      "size": 1395,
+      "gitBlob": "ad8008a350f62f191013aef07914d64864767e86",
+      "sha256": "61e897d5bc78c4f0f048913909368a573d0a3db3b6a1924792ef53f16549149e",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-20260912/runtime/execution-sessions/sessions.json",
+      "size": 6434,
+      "gitBlob": "ad43b26ef51b3672cd6d38ce13ced39a21228db6",
+      "sha256": "e38f0fdebf4764182db427b41bbda88ba3c99ed1d5701b4cfafd2434ff56e744",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-20260912/runtime/invocations.json",
+      "size": 5154,
+      "gitBlob": "6f1acb95688b814a1633b46f2b9ca45a9b48cfea",
+      "sha256": "ccf1f6feb7bf074d58012f236334a70a26190dfb1eace6bd486d661ae0b5b301",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-20260912/runtime/locks.json",
+      "size": 34,
+      "gitBlob": "b263a9e873a947846b140d1f5855746bbc865fa3",
+      "sha256": "dc8d39153c0e0e67aee3abea031749238848c3d77345d19559d1610b7f8347eb",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-20260912/runtime/parcels.json",
+      "size": 221434,
+      "gitBlob": "9f843f500a8326a1e86d0a241b961b6744e2104f",
+      "sha256": "5c460c5a0148911fe3b4ba4d530a8c96ac7414d0ac78024116157585dac4f4dd",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-20260912/runtime/run-events.jsonl",
+      "size": 4428,
+      "gitBlob": "b68b294283512bdca9ac1f07a129245a6aa7184f",
+      "sha256": "a3f95f8737d0060a868deb97868ecfd47534ce7154141ef4eab22dd2f3380773",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-20260912/runtime/runs.json",
+      "size": 82339,
+      "gitBlob": "6296107696fab466560d37b7fcb465edced15801",
+      "sha256": "645d5bdec580c88737768f16d8ff5a62edc2ad49ea321070afac81f1add71598",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-visual-acceptance-20260912/agent-control-4.5-runtime-map-six-job-visual-acceptance.mp4",
+      "size": 12822978,
+      "gitBlob": "01db797ec33b8b2a28de7eaf764d6c6339b39a93",
+      "sha256": "8b193460d5dc0240f9a863f48f96d22aed914ba2c565526faffaf99d437ad628",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-visual-acceptance-20260912/complete-human-readable-transcript.md",
+      "size": 51631,
+      "gitBlob": "7b28bb848ed7901c62bc7d272c20f88cd7c4831e",
+      "sha256": "e9395de043d54e0f357d5cf32bb29c7f8a830b8dadc1062bb15ab9dff205135d",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-visual-acceptance-20260912/evidence-manifest.json",
+      "size": 1735,
+      "gitBlob": "55cb60ff0687e71a8d11b2855b5dbe7107bbcfa1",
+      "sha256": "4fa843790d23d0573c2488a705200d4ae64df6c14aa07f3f0332a2943481eebd",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-visual-acceptance-20260912/qualification.json",
+      "size": 23164,
+      "gitBlob": "cfc7af37946eff568688cb7742b5af440277f2c2",
+      "sha256": "a95c489e495b3ccb1f4e89c54da29f49bbd047d5d60555ac53c53cedc78ca6c4",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-visual-acceptance-20260912/runtime-map-complete.png",
+      "size": 546229,
+      "gitBlob": "132b02761b7ffcad9924380faa6a992708a2777a",
+      "sha256": "b9db32f42569fef0c765475d298b32fa4897d6b885d208aef7f04eec4851578d",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-visual-acceptance-20260912/runtime-map-control-room.png",
+      "size": 520948,
+      "gitBlob": "ce6bc1368474b8584598b05b8af5f114d8f28bed",
+      "sha256": "d65b628d97cb98ab85c582e4c81d1ad856f23b93e11dbc072221e5757936dcde",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-visual-acceptance-20260912/runtime-map-estate-cross-link.png",
+      "size": 422831,
+      "gitBlob": "5f85022d4c56056769a6bb5c971e95f526e7c3ae",
+      "sha256": "97be0aa62d54308085cb1208e6511246b7b721dbac49aef343cf9d72cfae16d6",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-visual-acceptance-20260912/runtime-map-graphical-compare.png",
+      "size": 514888,
+      "gitBlob": "761f40f26029394768b8e876e8f4f7a38cd2417d",
+      "sha256": "37a1b1c0ae7b3afdde2fa4fc47e46f8d6cc614b2b1d03c897b660915769a8b29",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-visual-acceptance-20260912/runtime-map-live-session.png",
+      "size": 398135,
+      "gitBlob": "d23d92dc7822f7ef13246888ab44326c1c373645",
+      "sha256": "aa9affca7f1b8d318b9d6748de9a6e9841cde8d76d1ceac8b6f1073bce32ad3f",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-visual-acceptance-20260912/runtime-map-poe-grounded-status.png",
+      "size": 698269,
+      "gitBlob": "6e2cff1bd1266d95fe148197ac206b5599f2dfb4",
+      "sha256": "d792e2b3d8cb453843820df2979b260403bbc729f3f26aaa97dbfb3d122da7a0",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-visual-acceptance-20260912/runtime-map-replay-fan-out.png",
+      "size": 550965,
+      "gitBlob": "8b883510ab74f910fed63b267afe88731915e37e",
+      "sha256": "74b7653f83c035c840422ddda7f7465e0df3903896fa1fe3d8d4ee8e1348c54a",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-visual-acceptance-20260912/runtime-map-six-jobs-running.png",
+      "size": 461516,
+      "gitBlob": "c0e953ae5b017a66f001176c9b5385af1534262f",
+      "sha256": "9401d0a319ce105224069317a626fb1257a48766429c1f2a6b4fe3c41dc6d9be",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-visual-acceptance-20260912/runtime/artifacts/artifacts.json",
+      "size": 8155,
+      "gitBlob": "4c0a182f4227febdd11b393004a74b151d863ad8",
+      "sha256": "107e0be4ec926a5bd071d1fed584b26ecff3d2ca7a24c2a902a103c034d60e25",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-visual-acceptance-20260912/runtime/artifacts/objects/artifact-3c5c282c-0dab-4143-bd92-6ba9e561acdb.json",
+      "size": 130,
+      "gitBlob": "3e974d6af4b50b451128149bc280ed9bf3de9e3d",
+      "sha256": "7af0168a2946b64bf4ed9303e55bfc3d947ea2cd74a8ef9d10ae5d4bbee3d3ff",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-visual-acceptance-20260912/runtime/artifacts/objects/artifact-7fe8ae2e-8f4d-4594-997b-638b3cb85cf4.json",
+      "size": 539,
+      "gitBlob": "94704023e07778ad6a5d37f8f91929a5fa096016",
+      "sha256": "674cf92f0eff0768a042d5177441023ebcb83ea6365d7f1bf33a7e3f62b9e86c",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-visual-acceptance-20260912/runtime/artifacts/objects/artifact-81f16f02-1015-47ff-bf27-0afdcfb63309.json",
+      "size": 74,
+      "gitBlob": "8e4d874cbbf6a6fa5fccba3999e5b2649bd123ab",
+      "sha256": "8d0e4e8647b8cab0c35bbbf062622f0936bddf3f41544e9e383a2f24c56b4561",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-visual-acceptance-20260912/runtime/artifacts/objects/artifact-933570e4-9423-4ada-a22b-a877694ad1dd.json",
+      "size": 226,
+      "gitBlob": "c1b2e09b8d897e020dc67754994bc22ed244a76e",
+      "sha256": "4cdd6b30d9dfa24094a885c4e43320d74b08788c98840765b03353f65c12f73c",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-visual-acceptance-20260912/runtime/artifacts/objects/artifact-94c8d7de-b9ed-4931-91a8-fd5f71904124.json",
+      "size": 93,
+      "gitBlob": "7c8cfec3ac1a0ba6d6dec502f201198b0edf5fca",
+      "sha256": "3dd1feb8e7727af47cc5ceb1747dd0d67c45ce01f5821590335771879c3878d6",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-visual-acceptance-20260912/runtime/artifacts/objects/artifact-a9a1bb29-46a0-410b-a649-fb72fbe8c5d5.json",
+      "size": 46,
+      "gitBlob": "39c159b004a9da99dd315d906519e9695be2f34f",
+      "sha256": "b1099a6478667c14e42d377debb6bce2618a88cb2c063033f9d3c2d24757ca27",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-visual-acceptance-20260912/runtime/artifacts/objects/artifact-c0975fb4-dbf2-4108-ad1d-739461e02549.json",
+      "size": 138,
+      "gitBlob": "aa25d0b56f722ce95a4b59d0f5c640ac73e0335e",
+      "sha256": "c5c7f76aa8850a5ec523fb2c325ad4cb2d852fd01f97bf396838889addce4a2c",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-visual-acceptance-20260912/runtime/artifacts/objects/artifact-cc09f912-1df0-42ce-b27b-5c6222f7ea4d.json",
+      "size": 99,
+      "gitBlob": "13bc086cb259d1fde1913807023eabe546f171f5",
+      "sha256": "564ad216555c010f4908c91a8f7770af832ae4d876b65d253ce0a65c73e759ab",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-visual-acceptance-20260912/runtime/artifacts/objects/artifact-e3912834-b9d2-42f3-830b-8b6c085a27db.json",
+      "size": 155,
+      "gitBlob": "63c7602e84e41520f2cf8d86fc1997aaedce5d97",
+      "sha256": "aa0c5c59a45bcd447335589b97a47a6e11d9e9fe5ad84ea3d48d13241e64f3dc",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-visual-acceptance-20260912/runtime/environment-discovery.json",
+      "size": 21798,
+      "gitBlob": "18d4dea9e9b396bfb88e4a1e45ebf726919efd1e",
+      "sha256": "61f6ed8c7dc97c74238134f9d5c1c01a9d4fcd0f2b189dd9f51492dce8d29f01",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-visual-acceptance-20260912/runtime/execution-sessions/events/session-1f6f1bba-3f52-4a96-8370-0401fed80cf4.jsonl",
+      "size": 2767,
+      "gitBlob": "802ed15ce974516b62064f75b7279d4809d4cef9",
+      "sha256": "2a599dd2365dfb53c84c980524552c955622febe83826032312690cccb10955e",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-visual-acceptance-20260912/runtime/execution-sessions/events/session-3101b0ee-bbe0-4345-b828-87ad39700a82.jsonl",
+      "size": 27126,
+      "gitBlob": "5fb77489c8f2db2ed084a03a06ce67de71f3f501",
+      "sha256": "35ead802cf7d71b2c23634b8df0d3cc264a0b32699c733f1a19a88ead73353c8",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-visual-acceptance-20260912/runtime/execution-sessions/events/session-40ffd691-93de-4db7-a653-1f861fac7405.jsonl",
+      "size": 2217,
+      "gitBlob": "78852a018aaa0d7952816e0ddc53f468eb6ecb3f",
+      "sha256": "0d75b74c2fa916b2d99fde1960905ca604b429c7b5df2f051e2829d57d1d2129",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-visual-acceptance-20260912/runtime/execution-sessions/events/session-5856a4d7-ebf6-4b11-a5f4-88f1a3190486.jsonl",
+      "size": 1091,
+      "gitBlob": "4930f0d762dd6715b55397804b86cc5209ceee2e",
+      "sha256": "21a1a2dd46728d1696d28a0b867dff7a60110cd2bcb1407ebd8e36de1f25a47f",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-visual-acceptance-20260912/runtime/execution-sessions/events/session-a412f43e-4f4f-4508-9724-7f0cb1c85502.jsonl",
+      "size": 5242,
+      "gitBlob": "5a2c8c4b7905f1fe03f3a015f1737b25d73ecfe8",
+      "sha256": "13ad522219453b168d1b2ab3dc05c610e35526be05872dfeabc5670e35543336",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-visual-acceptance-20260912/runtime/execution-sessions/events/session-dd4d25ed-a314-4efe-9418-46e206767643.jsonl",
+      "size": 1395,
+      "gitBlob": "47276b1054087ab9d00392b8a88f277386af2448",
+      "sha256": "aba2f5ecfcfbd4a4ac2a217296a7fe75b881bcb5db080dab3b376a82e8839286",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-visual-acceptance-20260912/runtime/execution-sessions/sessions.json",
+      "size": 13081,
+      "gitBlob": "0ab9b184c59ea50906d2f96cc9f1d1979fa526c9",
+      "sha256": "bb00fbc51c5c253f6fb3eb76fc1e0a73156ea7c14d1bbfba3e969a388f2bf967",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-visual-acceptance-20260912/runtime/invocations.json",
+      "size": 5154,
+      "gitBlob": "e077aa29f0ba59f2b8780eeef76d00e9bd4dff90",
+      "sha256": "d1d55ee1a768b1d0e9a59facb4e30c38adc0584845894d54fd9b12a2fbf2568c",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-visual-acceptance-20260912/runtime/locks.json",
+      "size": 34,
+      "gitBlob": "b263a9e873a947846b140d1f5855746bbc865fa3",
+      "sha256": "dc8d39153c0e0e67aee3abea031749238848c3d77345d19559d1610b7f8347eb",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-visual-acceptance-20260912/runtime/parcels.json",
+      "size": 340922,
+      "gitBlob": "b3e886be7d0b4b744d0ecc3c27a5a2f37799cbac",
+      "sha256": "74d8b4d8a09ed7841fabd8709e0f5338d5bb77b556e83f02c7d721ab0196c2f0",
+      "reasons": [
+        "qualification-path",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-visual-acceptance-20260912/runtime/poe.json",
+      "size": 8029,
+      "gitBlob": "84515dad34c16e8b6e2e367f31fd66ec43597443",
+      "sha256": "5e09935ad0f49fab4c7b6bb2e2de0c2f0584bb270e457892a70a2f91fb4c7ac9",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-visual-acceptance-20260912/runtime/run-events.jsonl",
+      "size": 6351,
+      "gitBlob": "fe398017b58653ef1f98c31a38b9a06c54b991c1",
+      "sha256": "a2db04d4df709c3dce5f71a7c653d99e53dda8ca8cd3632db2a52aba268f5fad",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-runtime-map-visual-acceptance-20260912/runtime/runs.json",
+      "size": 128735,
+      "gitBlob": "c15dd836b502b107428d7cd5374bfb26e98a7473",
+      "sha256": "8768e49409f7edaa8e0b2b21925dede0321b41dc8dc551176d010be5dbefdc45",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-session-vault-20260912/agent-control-4.5-session-vault.mp4",
+      "size": 6411314,
+      "gitBlob": "e6d0ff9a73584579d9a400a00a307cad8406e450",
+      "sha256": "c5a350aeb1f299fb2a6058aaebe2080aa4492823ee502971631c53f080d1c8be",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-session-vault-20260912/complete-human-readable-transcript.md",
+      "size": 4140,
+      "gitBlob": "889f253c92a83000c5699de1e4908bef4e72ca6d",
+      "sha256": "2e7be36472959d39fdc3d66663f7d7673724b9db7cd2c4286175f68c452150e9",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-session-vault-20260912/evidence-manifest.json",
+      "size": 1113,
+      "gitBlob": "6ac2b502af120f21b9d66b1ba0d1c438aaff5bc0",
+      "sha256": "db4dbb92985589a73279a4f3556605b5de467c8350ee95b631304fbdf76f0be7",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-session-vault-20260912/human-readable-transcript.md",
+      "size": 2499,
+      "gitBlob": "460e2b04af5c16f14a821b417340132dd0a9958b",
+      "sha256": "8bd6db77e26bc20a83db2937637df3134f1f353a2029f154844dd5ed4041c055",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-session-vault-20260912/physical-qualification.json",
+      "size": 59423,
+      "gitBlob": "024929a9e66a29cf57255290017286a93b23cb09",
+      "sha256": "d13729084cb7b03bf90a6628b415565b85d1cb15d04930e1802c05ec25a4736e",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-session-vault-20260912/poe-video-conversation.json",
+      "size": 10611,
+      "gitBlob": "14e281f3074b2a292ca36315dfeab6964d0b287d",
+      "sha256": "e0fa244dd4b4ebefd0c99ee36e12beabfff9de784059ddcec21f815d4d27a8ba",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-session-vault-20260912/session-vault-dashboard.png",
+      "size": 874327,
+      "gitBlob": "0cf994eab3b0383d1c3de2455d74705ba62a89d6",
+      "sha256": "4bb0c025425a73094e0a961cb712c266ced89ce64946f5fac28111f28fc92cb1",
+      "reasons": [
+        "qualification-path",
+        "media-or-archive",
+        "oversized-blob"
+      ]
+    },
+    {
+      "path": "qualification/agent-control-session-vault-20260912/video-evidence.json",
+      "size": 1468,
+      "gitBlob": "bcfaee02473f34e74cfd190e4d71bdd69b18a96f",
+      "sha256": "734cb355ac8f923c9e9586c4e4e9993a005cd397a683ea16474431e9e154a101",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/minicpm5-2b-q4-k-m-20260912/manifest.json",
+      "size": 3403,
+      "gitBlob": "86e015c8792634f16c9af26b80dd83abd07ecef6",
+      "sha256": "fd7cb5447e9d5951b174e05bc8e1fc73a568b715eab777eddc77765fa0074cd6",
+      "reasons": [
+        "qualification-path"
+      ]
+    },
+    {
+      "path": "qualification/minicpm5-2b-q4-k-m-20260912/model-qualification.json",
+      "size": 2684,
+      "gitBlob": "e932f9dca9f6931d9a79a10f1acd43f5a36e1f04",
+      "sha256": "3a6e14f4cde836b4af3ac9cf8081be97c889262d02d6874645cae39fda94cd46",
+      "reasons": [
+        "qualification-path"
+      ]
+    }
+  ]
+}

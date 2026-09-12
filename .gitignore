@@ -1,0 +1,19 @@
+# Heavy evidence belongs in GitHub Release assets, never Git history.
+*.mp4
+*.webm
+*.mov
+*.avi
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.wav
+*.mp3
+*.m4a
+*.zip
+*.tar
+*.tar.zst
+*.gz
+*.7z
+*.pdf
+*.bundle
