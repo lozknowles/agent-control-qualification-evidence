@@ -65,3 +65,7 @@ This archive contains public qualification artifacts formerly tracked by the pub
 ## Agent Control 4.7 desktop and mobile usability
 
 [Paused 4.7 recordings and checksums](https://github.com/lozknowles/agent-control-qualification-evidence/releases/tag/agent-control-4.7.0-dashboard) · [Qualification manifest](manifests/agent-control-4.7.0-dashboard.json). Two real governed jobs demonstrate active process drill-down, running activity/timer, reconciled token usage and retained readable history. Usage views pause for at least two seconds. Mobile is viewport emulation; neither recording claims physical voice qualification. Video assets stay outside normal product source pulls.
+
+## Agent Control 4.7 observability follow-on
+
+[Paced desktop/mobile candidate evidence](https://github.com/lozknowles/agent-control-qualification-evidence/releases/tag/agent-control-4.7-observability) · [manifest](manifests/agent-control-4.7-observability.json). Real node-to-run drill-down, actual input/cache/output accounting and canonical history. Browser qualification is separate from the retained FAILED review verdict and unqualified physical handset/voice scope.

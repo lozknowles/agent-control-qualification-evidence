@@ -1,0 +1,103 @@
+{
+  "schema": "agent-control.observability-browser-evidence/v1",
+  "browserQualification": "PASS_WITH_LIMITATIONS",
+  "governedRunStatus": "FAILED",
+  "governedRunId": "259e0908-899b-485a-926b-c8cbe5ec4fe0",
+  "reviewSourceCommit": "3eaf24ccb78945c9ac589c3cddf8a7b5498d59a2",
+  "observerCommit": "201a8de4e4075bfb04d0fe79bac6f86ac16d0988",
+  "usage": {
+    "inputTokens": 218511,
+    "outputTokens": 5768,
+    "totalTokens": 224279,
+    "freshInputTokens": 127759,
+    "cachedInputTokens": 90752,
+    "cacheWriteTokens": 0,
+    "accountedInvocations": 4,
+    "unknownUsageInvocations": 0,
+    "source": "unavailable"
+  },
+  "historyEqualsCanonical": true,
+  "readingPauseMinimumMs": 2200,
+  "mobilePhysicalHandset": false,
+  "editing": "Two actual interaction captures of the same immutable run, joined after 35 seconds to omit waiting and the recorder retry. No playback speed changes. The completion observer includes subsequent verified fixes.",
+  "videos": [
+    {
+      "view": "desktop",
+      "file": "Agent-Control-4.7-observability-desktop-paced.mp4",
+      "sha256": "fd0855867c10510cb1087cf2acf984f262fee5002628eeb1a60153a857f76e7b",
+      "bytes": 5012159,
+      "probe": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "width": 1440,
+            "height": 1000
+          }
+        ],
+        "format": {
+          "duration": "78.760000"
+        }
+      },
+      "segments": [
+        {
+          "file": "page@94b7df42512b69efcaffabf8bb4424a8.webm",
+          "sha256": "fcbe85e471d40c7ad0796562a6b1d9c3157a4884ce0bdf23899ea0b126de6faf",
+          "rangeSeconds": [
+            0,
+            35
+          ],
+          "observerCommit": "3eaf24ccb78945c9ac589c3cddf8a7b5498d59a2"
+        },
+        {
+          "file": "page@54a2e28cd65a727b92641eb2354456e7.webm",
+          "sha256": "301b30d271b51f0697a038a1085200b4d37f5df2a0d7bc638e44f8c27d520cd3",
+          "rangeSeconds": "entire completion capture",
+          "observerCommit": "201a8de4e4075bfb04d0fe79bac6f86ac16d0988"
+        }
+      ]
+    },
+    {
+      "view": "mobile",
+      "file": "Agent-Control-4.7-observability-mobile-paced.mp4",
+      "sha256": "e16f2b516c3b73e280d820ff7f2024c0e017300805b40544afcca9c986df71a8",
+      "bytes": 1539599,
+      "probe": {
+        "programs": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "width": 390,
+            "height": 844
+          }
+        ],
+        "format": {
+          "duration": "78.520000"
+        }
+      },
+      "segments": [
+        {
+          "file": "page@657addd8f858bd298a8381462e985b1d.webm",
+          "sha256": "b038349377b256dfd2e2bd6ed4a0bf2aef1d819f9c16b275159919792d96a988",
+          "rangeSeconds": [
+            0,
+            35
+          ],
+          "observerCommit": "3eaf24ccb78945c9ac589c3cddf8a7b5498d59a2"
+        },
+        {
+          "file": "page@f9c9897efdb846533823c26376421901.webm",
+          "sha256": "39ed99b13c79228c78a0a1259784dbd79cf21eaf71c9049d918f44ce92bb5467",
+          "rangeSeconds": "entire completion capture",
+          "observerCommit": "201a8de4e4075bfb04d0fe79bac6f86ac16d0988"
+        }
+      ]
+    }
+  ],
+  "formalProductRelease": false,
+  "limits": [
+    "The recorded repository review remains FAILED: a tree-only chunk had insufficient evidence. It is not a clean whole-repository review.",
+    "Positive provider-cache reuse is recorded; monetary cost and cost savings remain unavailable.",
+    "Mobile is 390x844 browser emulation. Physical Pixel and voice qualification are not established."
+  ]
+}
