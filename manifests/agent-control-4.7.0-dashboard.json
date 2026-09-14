@@ -1,0 +1,201 @@
+{
+  "schema": "agent-control.dashboard-qualification/v1",
+  "release": "4.7.0",
+  "sourceCommit": "27124db3d5924b1244be590ef3ea48d4c3b183bc",
+  "verdict": "PASS_WITH_LIMITATIONS",
+  "runs": [
+    {
+      "mode": "desktop",
+      "sourceCommit": "27124db3d5924b1244be590ef3ea48d4c3b183bc",
+      "version": "4.7.0",
+      "runId": "1ef73bb6-62bf-4aaa-846a-486ec197ce10",
+      "parcelId": "parcel-038fb164-f827-457f-aa10-546ce7478c8e",
+      "sessionId": "session-3015bfa9-8cb5-4ab1-a59a-f65f064924d5",
+      "status": "SUCCEEDED_WITH_FINDINGS",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "physicalPhoneTested": false,
+      "syntheticTaskContent": true,
+      "realWorkerExecution": true,
+      "providerRuntime": "Existing subscription-included Codex CLI",
+      "model": "gpt-5.6-sol",
+      "monetaryCost": "NOT_REPORTED_NON_METERED_SUBSCRIPTION",
+      "usage": {
+        "inputTokens": 70685,
+        "outputTokens": 1861,
+        "totalTokens": 72546,
+        "freshInputTokens": 70685,
+        "cachedInputTokens": 0,
+        "cacheWriteTokens": 0,
+        "accountedInvocations": 2,
+        "unknownUsageInvocations": 0,
+        "source": "unavailable"
+      },
+      "nativeUsage": [
+        {
+          "sessionId": "session-3015bfa9-8cb5-4ab1-a59a-f65f064924d5",
+          "stepId": "repository-review:context-1-a73359fdf031",
+          "usage": {
+            "input_tokens": 37199,
+            "cached_input_tokens": 0,
+            "cache_write_input_tokens": 0,
+            "output_tokens": 725,
+            "reasoning_output_tokens": 263
+          }
+        },
+        {
+          "sessionId": "session-4d6dab24-18ae-4b6c-a63d-979abfc8502a",
+          "stepId": "repository-review:context-2-103d821df47a",
+          "usage": {
+            "input_tokens": 33486,
+            "cached_input_tokens": 0,
+            "cache_write_input_tokens": 0,
+            "output_tokens": 1136,
+            "reasoning_output_tokens": 293
+          }
+        }
+      ],
+      "canonicalUsageReconciled": true,
+      "outputChanges": 3,
+      "minimumUsageReadingMs": 2201,
+      "usageReadingViews": 6,
+      "activity": {
+        "liveTicks": 17,
+        "distinctElapsedValues": 15,
+        "terminalLabel": "EXITED",
+        "terminalTimer": "Elapsed 20s",
+        "frozen": true,
+        "reducedMotionAnimation": "none"
+      },
+      "historyDownloadedAndReopened": true,
+      "video": {
+        "name": "Agent-Control-4.7-desktop-paced.mp4",
+        "sha256": "0d90fd63dcf042caf203a1ebac2db5c6a0a6bd1974e7d9b85d1c63e6d3e49236",
+        "bytes": 10280437,
+        "probe": {
+          "programs": [],
+          "streams": [
+            {
+              "codec_name": "h264",
+              "codec_type": "video",
+              "width": 1920,
+              "height": 1080
+            }
+          ],
+          "format": {
+            "duration": "127.360000"
+          }
+        },
+        "fullDecode": "PASS",
+        "cuts": false,
+        "speedChanges": false,
+        "audio": "silent dashboard recording"
+      },
+      "originalWebm": {
+        "sha256": "52d74f4f48c32a0edd755aaff59d767a515cd9c2ba94e674a6cad2dea159b6b5",
+        "bytes": 13708509
+      },
+      "scope": "Core dashboard/process/usage/history qualification. Not a physical phone or voice showcase."
+    },
+    {
+      "mode": "mobile",
+      "sourceCommit": "27124db3d5924b1244be590ef3ea48d4c3b183bc",
+      "version": "4.7.0",
+      "runId": "0e01425b-4df5-406e-8cca-3c1336eae10d",
+      "parcelId": "parcel-c2580ab7-fa4f-4bd0-954f-55d51510e689",
+      "sessionId": "session-e746e34b-fb94-49e1-92a0-83f47dbfd509",
+      "status": "SUCCEEDED_WITH_FINDINGS",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "physicalPhoneTested": false,
+      "syntheticTaskContent": true,
+      "realWorkerExecution": true,
+      "providerRuntime": "Existing subscription-included Codex CLI",
+      "model": "gpt-5.6-sol",
+      "monetaryCost": "NOT_REPORTED_NON_METERED_SUBSCRIPTION",
+      "usage": {
+        "inputTokens": 70685,
+        "outputTokens": 1852,
+        "totalTokens": 72537,
+        "freshInputTokens": 70685,
+        "cachedInputTokens": 0,
+        "cacheWriteTokens": 0,
+        "accountedInvocations": 2,
+        "unknownUsageInvocations": 0,
+        "source": "unavailable"
+      },
+      "nativeUsage": [
+        {
+          "sessionId": "session-e746e34b-fb94-49e1-92a0-83f47dbfd509",
+          "stepId": "repository-review:context-1-a73359fdf031",
+          "usage": {
+            "input_tokens": 37199,
+            "cached_input_tokens": 0,
+            "cache_write_input_tokens": 0,
+            "output_tokens": 801,
+            "reasoning_output_tokens": 297
+          }
+        },
+        {
+          "sessionId": "session-b41976be-0b5a-4adc-91ff-c01879ddfd59",
+          "stepId": "repository-review:context-2-103d821df47a",
+          "usage": {
+            "input_tokens": 33486,
+            "cached_input_tokens": 0,
+            "cache_write_input_tokens": 0,
+            "output_tokens": 1051,
+            "reasoning_output_tokens": 257
+          }
+        }
+      ],
+      "canonicalUsageReconciled": true,
+      "outputChanges": 3,
+      "minimumUsageReadingMs": 2200,
+      "usageReadingViews": 8,
+      "activity": {
+        "liveTicks": 19,
+        "distinctElapsedValues": 16,
+        "terminalLabel": "EXITED",
+        "terminalTimer": "Elapsed 20s",
+        "frozen": true,
+        "reducedMotionAnimation": "none"
+      },
+      "historyDownloadedAndReopened": true,
+      "video": {
+        "name": "Agent-Control-4.7-mobile-paced.mp4",
+        "sha256": "88a419c7a2d56019b58ccdd9e9318a77242d7279917a3250abec0ca2aabdafb0",
+        "bytes": 3770698,
+        "probe": {
+          "programs": [],
+          "streams": [
+            {
+              "codec_name": "h264",
+              "codec_type": "video",
+              "width": 390,
+              "height": 844
+            }
+          ],
+          "format": {
+            "duration": "120.400000"
+          }
+        },
+        "fullDecode": "PASS",
+        "cuts": false,
+        "speedChanges": false,
+        "audio": "silent dashboard recording"
+      },
+      "originalWebm": {
+        "sha256": "1e120d273da108bfc61f29b618f2aee7db51697e9871bb078f6ebecf0e0df2e8",
+        "bytes": 8445764
+      },
+      "scope": "Core dashboard/process/usage/history qualification. Not a physical phone or voice showcase."
+    }
+  ],
+  "recordingSoftware": "Chromium/Playwright, ffmpeg H.264 encode without retiming",
+  "publicTextRedactions": "Synthetic workspace paths replaced by role labels in companion text only. Original private records retained. No native counter or video timing changed.",
+  "earlierRecordings": "Accepted 4.6.1 recordings are preserved unchanged."
+}

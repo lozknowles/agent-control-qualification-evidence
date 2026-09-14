@@ -61,3 +61,7 @@ The source-repository rewrite changes commit IDs. The complete mappings and the 
 ## Security boundary
 
 This archive contains public qualification artifacts formerly tracked by the public source repository. Credentials, tokens, cookies, pairing codes, and private authentication material are not intended to be present. Do not add secrets or machine credential stores to this repository or its releases.
+
+## Agent Control 4.7 desktop and mobile usability
+
+[Paused 4.7 recordings and checksums](https://github.com/lozknowles/agent-control-qualification-evidence/releases/tag/agent-control-4.7.0-dashboard) · [Qualification manifest](manifests/agent-control-4.7.0-dashboard.json). Two real governed jobs demonstrate active process drill-down, running activity/timer, reconciled token usage and retained readable history. Usage views pause for at least two seconds. Mobile is viewport emulation; neither recording claims physical voice qualification. Video assets stay outside normal product source pulls.
